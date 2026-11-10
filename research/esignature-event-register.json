@@ -1104,7 +1104,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Knights of Columbus",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "10/27/2018"
     },
     {
       "event_id": "383176",
@@ -1176,7 +1179,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Private venue (name/address withheld)",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "9/22/2018"
     },
     {
       "event_id": "383141",
@@ -1190,7 +1196,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Private venue (name/address withheld)",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "8/18/2018"
     },
     {
       "event_id": "383142",
@@ -1248,7 +1257,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Private venue (name/address withheld)",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "5/12/2018"
     },
     {
       "event_id": "383132",
@@ -1276,7 +1288,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Airfield Winery",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "10/20/2018"
     },
     {
       "event_id": "383127",
@@ -1371,8 +1386,8 @@
     "Email notifications confirm e-signature notices, not performance or payment"
   ],
   "venue_extraction": {
-    "attachments_inspected": 63,
-    "records_updated": 63,
+    "attachments_inspected": 68,
+    "records_updated": 68,
     "public_privacy_note": "One contract contained a street address rather than a named venue; street address withheld. No client names or contact details published.",
     "limitations": "Contract-listed location may differ from actual performed venue; 'To Be Determined' is not a verified venue."
   }
