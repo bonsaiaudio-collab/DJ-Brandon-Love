@@ -12,7 +12,6 @@ Research pass 2026-11-09 UTC. This is an inventory of **archived production evid
 - **Interstellar: An EDM Odyssey**, Apr 26 2019: [folder](https://drive.google.com/drive/folders/1FjeypklRaq9uNq-ADDq3sb4x_K3BWfGL); see [corroboration dossier](bonsai-events-interstellar-corroboration.md).
 - **Nukid**, Jun 28 2019: [folder](https://drive.google.com/drive/folders/10ChE5SxwI_cF858tnlKGlaVPcUs65y99).
 - **Ignition**, Jul 26 2019: [folder](https://drive.google.com/drive/folders/1tHDklsKV-Jfny_rPxZt-Sx_JhjF_EwEp).
-- **Subtronics?**, folder dated Aug 16 2019: [folder](https://drive.google.com/drive/folders/1mmvs1gWLpf8MnN6ac04zegUFxb-orHK3); question mark is part of uncertain identification, not a confirmed artist appearance.
 - **Extinction**, Sep 21 2019: [folder](https://drive.google.com/drive/folders/1jGQfhOpTARTtrVepTXVtRn19PICedBmf).
 - **Bangkok**, undated folder: [folder](https://drive.google.com/drive/folders/1NL3LWFrYoNC7-0uY38qGoTxrnIgFgl-Z).
 
