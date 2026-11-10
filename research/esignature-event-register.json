@@ -1048,7 +1048,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Cooper Winery",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "6/1/2019"
+      "attachment_event_date": "6/1/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
     },
     {
       "event_id": "383230",
@@ -1066,7 +1070,11 @@
       "contract_venue": "Anthony's Restaurant",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "4/25/2019",
-      "attachment_event_type": "Fundraiser"
+      "attachment_event_type": "Fundraiser",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
     },
     {
       "event_id": "383220",
@@ -1082,7 +1090,11 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "Bella Fiori",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
     },
     {
       "event_id": "383212",
@@ -1100,7 +1112,11 @@
       "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "8/10/2019",
-      "venue_privacy_redacted": true
+      "venue_privacy_redacted": true,
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
     },
     {
       "event_id": "383225",
@@ -1117,7 +1133,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Mountain View Lodge",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "6/22/2019"
+      "attachment_event_date": "6/22/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
     },
     {
       "event_id": "383227",
@@ -1134,7 +1154,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Uptown Theatre",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "10/4/2019"
+      "attachment_event_date": "10/4/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
     },
     {
       "event_id": "383216",
@@ -1151,7 +1175,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Lions Gate",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "10/31/2019"
+      "attachment_event_date": "10/31/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
     },
     {
       "event_id": "383198",
@@ -1168,7 +1196,11 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "Promise Garden",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
     },
     {
       "event_id": "383218",
@@ -1185,7 +1217,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Red Lion Kennewick",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "8/3/2019"
+      "attachment_event_date": "8/3/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
     },
     {
       "event_id": "383214",
@@ -1202,7 +1238,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Prosser River Ranch",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "7/6/2019"
+      "attachment_event_date": "7/6/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
     },
     {
       "event_id": "383203",
@@ -1239,7 +1279,11 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "Promise Gardens",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
     },
     {
       "event_id": "383195",
@@ -1257,7 +1301,11 @@
       "contract_venue": "CG Public House",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "12/1/2018",
-      "attachment_event_type": "Company Holiday Party"
+      "attachment_event_type": "Company Holiday Party",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
     },
     {
       "event_id": "383175",
