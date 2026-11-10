@@ -17,3 +17,8 @@ A May 22, 2019 artist-management exchange shared [this Drive video](https://driv
 
 ## Outstanding checks
 Inspect both linked videos for actual footage, titles, credits, watermarks, embedded dates and contributors; locate original photographer credits and original publication URLs. Keep production payment, finished artifact, publication and public reception as distinct evidence categories.
+
+## November 2026 connected-Drive verification
+- Google Drive metadata lookup for the [Interstellar after-movie](https://drive.google.com/file/d/1I_qqIEeGHhS78yd9NhH9CVROHvD-rRQR/view) returned **Interstellar After Movie.mp4**, MIME **video/mp4**, size **77,819,707 bytes**, created **May 13, 2019**. This verifies an actual video file exists in the connected account, beyond the May 22 email mention. The contents, credits, runtime and release status have not been inspected.
+- Metadata lookup for the [Radioactive recap link](https://drive.google.com/file/d/1AYtM_ThDF299_V-Y_eW8foKCdYSGlaKD/view) returned **404 / file not found** in the connected account. The contemporary Sept 5, 2018 email still establishes that a recap link was shared, but present file availability and video contents remain unverified.
+- Public-web searches for a matching independently hosted Radioactive recap did not identify a reliable exact match in this pass. Do not infer non-publication from that result.
