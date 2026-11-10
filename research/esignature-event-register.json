@@ -430,7 +430,9 @@
       "attachment_event_date": "6/27/2020",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "service_classification": "Equipment rental contract",
+      "service_classification_evidence": "attached contract filename bonsai_audio_equipment_rental.html"
     },
     {
       "event_id": "383314",
@@ -506,7 +508,10 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "Best Western",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383310",
@@ -523,7 +528,10 @@
       "attachment_reviewed": true,
       "contract_venue": "HAPO Center",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "1/31/2020"
+      "attachment_event_date": "1/31/2020",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383302",
@@ -540,7 +548,10 @@
       "attachment_reviewed": true,
       "contract_venue": "Promise Garden",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "6/27/2020"
+      "attachment_event_date": "6/27/2020",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383299",
@@ -557,7 +568,10 @@
       "attachment_reviewed": true,
       "contract_venue": "VIBE Music Center",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "1/18/2020"
+      "attachment_event_date": "1/18/2020",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383292",
@@ -574,7 +588,10 @@
       "attachment_reviewed": true,
       "contract_venue": "Flat top event center",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "12/20/2019"
+      "attachment_event_date": "12/20/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383282",
@@ -590,7 +607,10 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "REACH Museum",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383277",
