@@ -19,3 +19,10 @@ Inspection date: 2026-11-09 UTC. **Internal-source discovery, not independent pu
 2. Inspect dated public-event production folders for posters, performer lineups, schedules and post-event artifacts.
 3. Link those artifacts to external public organizer pages when possible, preserving independent/owner-supplied classifications.
 4. Seek explicit approval before publishing identifiable private-event photos or media featuring attendees.
+
+## Second-pass folder inspection: production artifacts
+- [Interstellar: An EDM Odyssey — April 26, 2019 folder](https://drive.google.com/drive/folders/1FjeypklRaq9uNq-ADDq3sb4x_K3BWfGL): contains a poster-placement spreadsheet, event budget, art-raffle spreadsheet, artists/DJs/performers folder, graphics folder, and checklist document. This is **strong internal evidence of organized event-production planning**, but does not alone prove event completion, attendance, or Brandon's onstage role.
+- [Ignition — July 26, 2019 folder](https://drive.google.com/drive/folders/1tHDklsKV-Jfny_rPxZt-Sx_JhjF_EwEp): contains two promotional graphics, badge materials, photo-booth folder, and artist-logo folder. These indicate event branding and production preparation; photo-booth folder contents have not been inspected for actual event photos.
+- [RadCon — February 14, 2020 folder](https://drive.google.com/drive/folders/1mZgnVFSSt2NDK1tWqlzg7SMp0uQT9H1l): contains a dance flyer image. No independent organizer confirmation yet.
+
+**Verification priority:** locate public posts or event listings by organizers and performers matching the above event names/dates. If a Bonsai Audio Instagram profile is confirmed, review its original posts and tagged collaborations, carefully distinguishing pre-event promotions from after-event documentation.
