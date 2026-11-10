@@ -26,3 +26,6 @@ Inspection date: 2026-11-09 UTC. **Internal-source discovery, not independent pu
 - [RadCon — February 14, 2020 folder](https://drive.google.com/drive/folders/1mZgnVFSSt2NDK1tWqlzg7SMp0uQT9H1l): contains a dance flyer image. No independent organizer confirmation yet.
 
 **Verification priority:** locate public posts or event listings by organizers and performers matching the above event names/dates. If a Bonsai Audio Instagram profile is confirmed, review its original posts and tagged collaborations, carefully distinguishing pre-event promotions from after-event documentation.
+
+## Interstellar document-level review
+The [Interstellar event checklist](https://docs.google.com/document/d/1_282zTO2rk6iv-5Sm2SBnL61rplECk207Ow4_qTQQcQ/edit) contains planning notes for sponsor outreach, teardown staffing, truss responsibility and a possible elevated dancer/stage design. These are **ideas/tasks**, not proof the stage design or sponsorship materialized. The [Artists, DJs and Performers folder](https://drive.google.com/drive/folders/1WcjDAIrWRZB9rEu6WMLExBKOOMY5BBWF) currently lists a Facebook announcement calendar spreadsheet, not a verified performer roster. Do not infer named artist participation from the folder title.
