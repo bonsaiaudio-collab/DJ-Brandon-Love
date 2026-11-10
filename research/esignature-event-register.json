@@ -52,7 +52,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Terra Blanca",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "10/16/2021"
     },
     {
       "event_id": "383336",
@@ -66,7 +69,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "The White Barn Estate",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "9/18/2021"
     },
     {
       "event_id": "383250",
@@ -84,7 +90,10 @@
       "notifications": 3,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Promise Garden",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "6/27/2021"
     },
     {
       "event_id": "383315",
@@ -100,7 +109,10 @@
       "notifications": 2,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Gala Events and Venue at Sky Gardens",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "7/24/2021"
     },
     {
       "event_id": "383301",
@@ -130,7 +142,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "private residence",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "9/26/2020"
     },
     {
       "event_id": "383316",
@@ -162,7 +177,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Wine Valley Golf Course",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "8/29/2020"
     },
     {
       "event_id": "383326",
@@ -176,7 +194,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Tucannon Cellars - Sugar Pine Barn",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "6/19/2021"
     },
     {
       "event_id": "383276",
@@ -208,7 +229,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Private Residence",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "5/23/2020"
     },
     {
       "event_id": "383312",
@@ -1230,7 +1254,7 @@
     "Email notifications confirm e-signature notices, not performance or payment"
   ],
   "venue_extraction": {
-    "attachments_inspected": 18,
+    "attachments_inspected": 26,
     "records_updated": 18,
     "public_privacy_note": "One contract contained a street address rather than a named venue; street address withheld. No client names or contact details published.",
     "limitations": "Contract-listed location may differ from actual performed venue; 'To Be Determined' is not a verified venue."
