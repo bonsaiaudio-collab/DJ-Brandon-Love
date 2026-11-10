@@ -797,7 +797,11 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "St. Joseph's Parish Activity Center",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
     },
     {
       "event_id": "383264",
@@ -814,7 +818,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Wine country garden",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "9/21/2019"
+      "attachment_event_date": "9/21/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
     },
     {
       "event_id": "383258",
@@ -831,7 +839,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Columbia Park Bandshell",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "10/12/2019"
+      "attachment_event_date": "10/12/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
     },
     {
       "event_id": "383257",
@@ -848,7 +860,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Benton county fairgrounds",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "5/16/2020"
+      "attachment_event_date": "5/16/2020",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
     },
     {
       "event_id": "383255",
@@ -864,7 +880,11 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "Terra Blanca Winery & Estate",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
     },
     {
       "event_id": "383254",
@@ -881,7 +901,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Lefty's Taphouse",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "11/16/2019"
+      "attachment_event_date": "11/16/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
     },
     {
       "event_id": "383248",
@@ -898,7 +922,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Goose Ridge Winery ( Both Ceremony & Reception",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "9/13/2019"
+      "attachment_event_date": "9/13/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
     },
     {
       "event_id": "383249",
@@ -916,7 +944,11 @@
       "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "9/21/2019",
-      "venue_privacy_redacted": true
+      "venue_privacy_redacted": true,
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
     },
     {
       "event_id": "383239",
@@ -933,7 +965,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Prosser River Ranch",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "8/24/2019"
+      "attachment_event_date": "8/24/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
     },
     {
       "event_id": "383247",
@@ -949,7 +985,11 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": null,
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
     },
     {
       "event_id": "383240",
@@ -966,7 +1006,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Chandler Reach Winery",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "6/29/2019"
+      "attachment_event_date": "6/29/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
     },
     {
       "event_id": "383238",
@@ -983,7 +1027,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Flamingo Hall",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "9/8/2019"
+      "attachment_event_date": "9/8/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
     },
     {
       "event_id": "383231",
