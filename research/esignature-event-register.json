@@ -36,7 +36,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "To Be Determined",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383339",
@@ -112,7 +114,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Bella Fiori",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383331",
@@ -142,7 +146,9 @@
       "notifications": 2,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Canyon Lakes Golf Course",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383329",
@@ -186,7 +192,9 @@
       "notifications": 2,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Goose Ridge Winery",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383328",
@@ -271,7 +279,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Best Western",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383310",
@@ -341,7 +351,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "REACH Museum",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383277",
@@ -411,7 +423,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Zillah Civic Center",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383273",
@@ -467,7 +481,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "St. Joseph's Parish Activity Center",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383264",
@@ -523,7 +539,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Terra Blanca Winery & Estate",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383254",
@@ -593,7 +611,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": null,
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383240",
@@ -663,7 +683,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Bella Fiori",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383212",
@@ -734,7 +756,9 @@
       "notifications": 2,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Promise Garden",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383218",
@@ -790,7 +814,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Promise Gardens",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383195",
@@ -863,7 +889,9 @@
       "notifications": 2,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Richland Community Center",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383190",
@@ -919,7 +947,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Terra Blanca Estate Vinyard",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383180",
@@ -989,7 +1019,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "CG Public House",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383143",
@@ -1059,7 +1091,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Andy's North",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383134",
@@ -1115,7 +1149,9 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Three Rivers Winery",
+      "venue_evidence": "e-signed contract attachment inspected"
     },
     {
       "event_id": "383067",
@@ -1192,5 +1228,11 @@
     "Five matching messages concern a separate insurance e-signature request, not Bonsai Audio",
     "Some event IDs have changed scheduled dates across notifications; retain all dates and investigate rescheduling",
     "Email notifications confirm e-signature notices, not performance or payment"
-  ]
+  ],
+  "venue_extraction": {
+    "attachments_inspected": 18,
+    "records_updated": 18,
+    "public_privacy_note": "One contract contained a street address rather than a named venue; street address withheld. No client names or contact details published.",
+    "limitations": "Contract-listed location may differ from actual performed venue; 'To Be Determined' is not a verified venue."
+  }
 }
