@@ -1,0 +1,32 @@
+{
+  "title": "Bonsai Audio PDF inventory handoff to email corroboration",
+  "updated": "2026-11-10",
+  "scope": "Connected Google Drive search for year-tagged PDF titles; not a full recursive inventory",
+  "counts": {
+    "year_2017_pdf_search_hits": 25,
+    "year_2018_pdf_search_hits": 7,
+    "year_2019_pdf_search_hits": 7
+  },
+  "review": {
+    "verified_invoice_quote_records_in_structured_register": 8,
+    "scanned_pdf_samples_tested": 6,
+    "scanned_pdf_samples_with_extracted_text": 0
+  },
+  "evidence_rules": [
+    "Filename-only records are leads, not confirmed engagements",
+    "Invoices and quotes do not independently prove delivery or payment",
+    "Client names and contract details remain private",
+    "Deduplicate by date, organization and event ID where supported"
+  ],
+  "next_steps": [
+    "Continue PDF source discovery and identify accessible text or page images",
+    "Search Gmail E-Signature notifications and extract event ID, date, document type and timestamp",
+    "Deduplicate forwards and amended signatures",
+    "Cross-reference email event IDs and private PDF records before publishing counts"
+  ],
+  "observations": [
+    "2017 Drive search returned a duplicate original and updated wedding PDF for 2017-09-09",
+    "2018 PDF samples returned empty extracted content",
+    "Bonsai-tree sales documents should be classified under a separate venture"
+  ]
+}
