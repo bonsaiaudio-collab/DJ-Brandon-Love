@@ -382,7 +382,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Flat top event center",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "12/20/2019"
     },
     {
       "event_id": "383282",
@@ -412,7 +415,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Eastern Oregon Trade and Event Center (EOTEC)",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "12/14/2019"
     },
     {
       "event_id": "383285",
@@ -426,7 +432,11 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "1515 George washington way",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "11/9/2019",
+      "attachment_event_type": "Other / Not Listed"
     },
     {
       "event_id": "383281",
@@ -440,7 +450,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "7350 W Deschutes Ave",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "12/7/2019"
     },
     {
       "event_id": "383278",
@@ -454,7 +467,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Winn Homestead",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "8/29/2020"
     },
     {
       "event_id": "383279",
@@ -484,7 +500,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Tucannon Cellars - Sugar Pine Barn",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "2/14/2020"
     },
     {
       "event_id": "383272",
@@ -498,7 +517,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Water 2 Wine Cruise Ship",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "10/5/2019"
     },
     {
       "event_id": "383269",
@@ -512,7 +534,11 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Chiawana High school",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "11/23/2019",
+      "attachment_event_type": "Other / Not Listed"
     },
     {
       "event_id": "383265",
@@ -542,7 +568,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Wine country garden",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "9/21/2019"
     },
     {
       "event_id": "383258",
@@ -556,7 +585,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Columbia Park Bandshell",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "10/12/2019"
     },
     {
       "event_id": "383257",
@@ -1275,8 +1307,8 @@
     "Email notifications confirm e-signature notices, not performance or payment"
   ],
   "venue_extraction": {
-    "attachments_inspected": 33,
-    "records_updated": 33,
+    "attachments_inspected": 43,
+    "records_updated": 43,
     "public_privacy_note": "One contract contained a street address rather than a named venue; street address withheld. No client names or contact details published.",
     "limitations": "Contract-listed location may differ from actual performed venue; 'To Be Determined' is not a verified venue."
   }
