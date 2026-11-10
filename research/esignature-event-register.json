@@ -1937,8 +1937,11 @@
       "contract_venue": "Terra Blanca",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "9/28/2018",
-      "public_performer_attribution": "pending_review",
-      "public_performer_attribution_basis": "Contract performer not yet reviewed."
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified.",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version; DJ-service package reviewed"
     },
     {
       "event_id": "383101",
@@ -1956,8 +1959,11 @@
       "contract_venue": "Rose Garden Gazebo behind library",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "6/1/2018",
-      "public_performer_attribution": "pending_review",
-      "public_performer_attribution_basis": "Contract performer not yet reviewed."
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified.",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version; DJ-service package reviewed"
     },
     {
       "event_id": "383075",
@@ -1975,8 +1981,11 @@
       "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "5/27/2018",
-      "public_performer_attribution": "pending_review",
-      "public_performer_attribution_basis": "Contract performer not yet reviewed."
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified.",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version; DJ-service package reviewed"
     },
     {
       "event_id": "383074",
@@ -1994,8 +2003,11 @@
       "contract_venue": "Richland Community Center",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "9/8/2018",
-      "public_performer_attribution": "pending_review",
-      "public_performer_attribution_basis": "Contract performer not yet reviewed."
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified.",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version; DJ-service package reviewed"
     },
     {
       "event_id": "383070",
@@ -2013,8 +2025,11 @@
       "contract_venue": "Wine Valley Golf Course",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "6/22/2018",
-      "public_performer_attribution": "pending_review",
-      "public_performer_attribution_basis": "Contract performer not yet reviewed."
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified.",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version; DJ-service package reviewed"
     }
   ],
   "cautions": [
@@ -2066,10 +2081,10 @@
     "attribution_policy": "For reviewed DJ-service contracts with no individual performer named, presume Brandon Andersen based on his own account, explicitly labeled owner presumption rather than documentary proof. Never apply presumption to unreviewed or non-DJ records.",
     "attribution_counts_as_of_review": {
       "explicit": 22,
-      "presumed": 48,
+      "presumed": 53,
       "other": 5,
       "nonDJ": 2,
-      "unreviewed": 5
+      "unreviewed": 0
     }
   }
 }
