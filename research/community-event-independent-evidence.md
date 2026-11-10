@@ -19,3 +19,11 @@ The archive also reports on the May 2018 Hands In for Hands On fundraiser and Ma
 ## Method
 
 Separate documented participation from event-only mentions. A source that announces a fundraiser but does not name Bonsai Audio must not be presented as evidence of Bonsai's involvement.
+
+## Follow-up cross-check — nonprofit organizer search
+
+Search combinations reviewed: Bonsai Audio with Mid-Columbia Ballet, Christ the King, and Powerful Connections, plus the Polar Express event. No additional independently published organizer acknowledgment of Bonsai Audio was established from this pass. **Do not interpret absence from indexed search as absence of participation.**
+
+The [When in Tri-Cities archive](https://aliciawaltersblog.wordpress.com/) separately documents the March 10, 2018 Mid-Columbia Arts Fundraiser at Three Rivers Convention Center, but the visible event coverage does not name Bonsai Audio as a participating vendor. Event occurrence is verified; Bonsai involvement remains unverified. This distinction is important when cross-referencing private business invoices or proposals.
+
+Next evidence sources: contemporaneous event programs, auction sponsor PDFs, organizers' archived posts, and publicly credited photographs. Prefer original dated artifacts over undated business directories.
