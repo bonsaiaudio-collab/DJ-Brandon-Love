@@ -821,7 +821,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Mountain View Lodge",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "6/22/2019"
     },
     {
       "event_id": "383227",
@@ -835,7 +838,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Uptown Theatre",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "10/4/2019"
     },
     {
       "event_id": "383216",
@@ -849,7 +855,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Lions Gate",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "10/31/2019"
     },
     {
       "event_id": "383198",
@@ -880,7 +889,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Red Lion Kennewick",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "8/3/2019"
     },
     {
       "event_id": "383214",
@@ -894,7 +906,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Prosser River Ranch",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "7/6/2019"
     },
     {
       "event_id": "383203",
@@ -908,7 +923,11 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Fontaine Estates Winery",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "8/10/2019",
+      "attachment_event_type": "Wedding"
     },
     {
       "event_id": "383193",
@@ -938,7 +957,11 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "CG Public House",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "12/1/2018",
+      "attachment_event_type": "Company Holiday Party"
     },
     {
       "event_id": "383175",
@@ -952,7 +975,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Red Barn",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "5/26/2019"
     },
     {
       "event_id": "383192",
@@ -966,7 +992,11 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Convention Center",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "12/1/2018",
+      "attachment_event_type": "Company Holiday Party"
     },
     {
       "event_id": "383174",
@@ -981,7 +1011,10 @@
       "notifications": 2,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Three Rivers Convention Center",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "3/23/2019"
     },
     {
       "event_id": "383105",
@@ -1338,8 +1371,8 @@
     "Email notifications confirm e-signature notices, not performance or payment"
   ],
   "venue_extraction": {
-    "attachments_inspected": 53,
-    "records_updated": 53,
+    "attachments_inspected": 63,
+    "records_updated": 63,
     "public_privacy_note": "One contract contained a street address rather than a named venue; street address withheld. No client names or contact details published.",
     "limitations": "Contract-listed location may differ from actual performed venue; 'To Be Determined' is not a verified venue."
   }
