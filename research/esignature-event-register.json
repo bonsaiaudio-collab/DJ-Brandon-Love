@@ -105,7 +105,10 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "To Be Determined",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383339",
@@ -122,7 +125,10 @@
       "attachment_reviewed": true,
       "contract_venue": "Terra Blanca",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "10/16/2021"
+      "attachment_event_date": "10/16/2021",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383336",
@@ -139,7 +145,10 @@
       "attachment_reviewed": true,
       "contract_venue": "The White Barn Estate",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "9/18/2021"
+      "attachment_event_date": "9/18/2021",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383250",
@@ -241,7 +250,10 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "Bella Fiori",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383331",
@@ -259,7 +271,10 @@
       "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "9/26/2020",
-      "venue_privacy_redacted": true
+      "venue_privacy_redacted": true,
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383316",
@@ -313,7 +328,10 @@
       "attachment_reviewed": true,
       "contract_venue": "Wine Valley Golf Course",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "8/29/2020"
+      "attachment_event_date": "8/29/2020",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "AJ Hawn",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383326",
