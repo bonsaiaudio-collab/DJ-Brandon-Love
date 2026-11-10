@@ -77,3 +77,15 @@ A focused search of **anderbran@gmail.com** on 2026-11-10 uncovered evidence **e
 **Editorial decision:** Prior statement that Boogie Maximus *followed* DJ BounceHouse as a clean chronological replacement is **not established by the records**. Preserve user's recollection alongside contradictory dated records, without declaring which identity came first or whether they overlapped.
 
 **Independent press search:** Public searches for the 2011 Metropolis / Dori O'Neal / Tri-City Herald feature did not produce a matching accessible article in this pass. Newspaper correspondence establishes planned coverage, **not verified publication**.
+
+## Earlier archive findings — 2009–2010 (anderbran Gmail, 2026-11-10)
+
+- **2009-11-25:** Correspondence about “This is Boogie Maximus sending three tracks” (`1252f077e823f6ee`) discusses electronic music shared with a collaborator and an anticipated post-Thanksgiving DJ appearance. Performance is **planned**, not verified as held.
+- **2009-12-01:** “Boogie Maximus responding to Craigslist” (`1254db119f25a472`) identifies the Boogie Maximus artist persona and mentions **CRAVE** events and `craveyoursavior.com`. This establishes a public-facing artist identity by late 2009; website availability unverified.
+- **2010-01-02:** “CRAVE is tonight” (`125f11423e9223da`) advertises a **7 p.m. CRAVE event at Holy Spirit Catholic Church, Kennewick**. This is proof of announcement, not independent confirmation of attendance or completion.
+- **2010-01-28:** Gener8Xion Records artist introduction (`126768570434133e`) from Geoffrey Duncan explicitly identifies **Brandon Andersen as Boogie Maximus**, Washington State, among the label's artist roster or prospective participants. The sender explicitly states recipients were either signed **or merely interested**; do **not** claim a signed record deal from this message alone.
+- **2010-04-22:** An editor of **The Element** (`128246c5e4512d84`) reports **five works accepted** for the Spring 2010 issue: **Apophysis; The Energy Battle; A Funeral for a Funnel; The Victorious Lament; Grooving with You Gone 1.3**. This is third-party editorial acceptance, not yet independently verified physical/digital publication. The editor declined two other submissions.
+- **2010-05-13:** A collaborator's proposed first Boogie Maximus EP tracklist (`12894b42365c5132`): **Emotive; Here/ing Again; Greener Pastures; I Would Have Said Goodbye**. These are working titles and a proposed running order, not confirmed released tracks.
+- **2010-06-15:** Gener8Xion collaborator says **“Still With Me” EP** had apparently been mastered and requests album-art direction (`1293c75aa4b61809`). Mastering assertion is collaborator-reported; distribution still unverified.
+
+**Revised earliest documented artist date:** **November/December 2009**, not May 2010. The record now shows Boogie Maximus and CRAVE preceding the late-2010 DJ BounceHouse identity. Search earlier mail for even older artifacts and seek a surviving copy of **The Element Spring 2010** and distributor records before publicizing publication/release claims.
