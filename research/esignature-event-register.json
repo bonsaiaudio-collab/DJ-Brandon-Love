@@ -681,7 +681,10 @@
       "attachment_reviewed": true,
       "contract_venue": "Winn Homestead",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "8/29/2020"
+      "attachment_event_date": "8/29/2020",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383279",
@@ -697,7 +700,10 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "Zillah Civic Center",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "AJ Hawn",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383273",
@@ -1140,7 +1146,10 @@
       "contract_venue": "Fontaine Estates Winery",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "8/10/2019",
-      "attachment_event_type": "Wedding"
+      "attachment_event_type": "Wedding",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383193",
