@@ -602,7 +602,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Benton county fairgrounds",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "5/16/2020"
     },
     {
       "event_id": "383255",
@@ -632,7 +635,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Lefty's Taphouse",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "11/16/2019"
     },
     {
       "event_id": "383248",
@@ -646,7 +652,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Goose Ridge Winery ( Both Ceremony & Reception",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "9/13/2019"
     },
     {
       "event_id": "383249",
@@ -660,7 +669,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "White Family residence",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "9/21/2019"
     },
     {
       "event_id": "383239",
@@ -674,7 +686,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Prosser River Ranch",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "8/24/2019"
     },
     {
       "event_id": "383247",
@@ -704,7 +719,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Chandler Reach Winery",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "6/29/2019"
     },
     {
       "event_id": "383238",
@@ -718,7 +736,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Flamingo Hall",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "9/8/2019"
     },
     {
       "event_id": "383231",
@@ -732,7 +753,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Cooper Winery",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "6/1/2019"
     },
     {
       "event_id": "383230",
@@ -746,7 +770,11 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Anthony's Restaurant",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "4/25/2019",
+      "attachment_event_type": "Fundraiser"
     },
     {
       "event_id": "383220",
@@ -776,7 +804,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "51810 N Sunset Rd.",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "8/10/2019"
     },
     {
       "event_id": "383225",
@@ -1307,8 +1338,8 @@
     "Email notifications confirm e-signature notices, not performance or payment"
   ],
   "venue_extraction": {
-    "attachments_inspected": 43,
-    "records_updated": 43,
+    "attachments_inspected": 53,
+    "records_updated": 53,
     "public_privacy_note": "One contract contained a street address rather than a named venue; street address withheld. No client names or contact details published.",
     "limitations": "Contract-listed location may differ from actual performed venue; 'To Be Determined' is not a verified venue."
   }
