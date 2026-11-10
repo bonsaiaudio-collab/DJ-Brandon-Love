@@ -348,7 +348,10 @@
       "attachment_reviewed": true,
       "contract_venue": "Tucannon Cellars - Sugar Pine Barn",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "6/19/2021"
+      "attachment_event_date": "6/19/2021",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383276",
@@ -403,7 +406,10 @@
       "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "5/23/2020",
-      "venue_privacy_redacted": true
+      "venue_privacy_redacted": true,
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383312",
@@ -421,7 +427,10 @@
       "attachment_reviewed": true,
       "contract_venue": "Camp Touchet",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "6/27/2020"
+      "attachment_event_date": "6/27/2020",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383314",
@@ -438,7 +447,10 @@
       "attachment_reviewed": true,
       "contract_venue": "Desery Wind Winery",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "10/17/2020"
+      "attachment_event_date": "10/17/2020",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383288",
@@ -455,7 +467,10 @@
       "attachment_reviewed": true,
       "contract_venue": "Le Jardin",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "8/1/2020"
+      "attachment_event_date": "8/1/2020",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383311",
@@ -472,7 +487,10 @@
       "attachment_reviewed": true,
       "contract_venue": "The Barn at Blue Meadows",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "6/27/2020"
+      "attachment_event_date": "6/27/2020",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383284",
