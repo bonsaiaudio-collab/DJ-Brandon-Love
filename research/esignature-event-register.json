@@ -1807,8 +1807,11 @@
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "9/7/2018",
       "attachment_event_type": "Fundraiser",
-      "public_performer_attribution": "pending_review",
-      "public_performer_attribution_basis": "Contract performer not yet reviewed."
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified.",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383140",
@@ -1825,8 +1828,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Andy's North",
       "venue_evidence": "e-signed contract attachment inspected",
-      "public_performer_attribution": "pending_review",
-      "public_performer_attribution_basis": "Contract performer not yet reviewed."
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified.",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383134",
@@ -1844,8 +1850,11 @@
       "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "5/12/2018",
-      "public_performer_attribution": "pending_review",
-      "public_performer_attribution_basis": "Contract performer not yet reviewed."
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified.",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383132",
@@ -2048,10 +2057,10 @@
     "attribution_policy": "For reviewed DJ-service contracts with no individual performer named, presume Brandon Andersen based on his own account, explicitly labeled owner presumption rather than documentary proof. Never apply presumption to unreviewed or non-DJ records.",
     "attribution_counts_as_of_review": {
       "explicit": 22,
-      "presumed": 42,
+      "presumed": 45,
       "other": 5,
       "nonDJ": 2,
-      "unreviewed": 11
+      "unreviewed": 8
     }
   }
 }
