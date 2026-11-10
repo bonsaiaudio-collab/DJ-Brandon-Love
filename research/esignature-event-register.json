@@ -161,8 +161,32 @@
       "contract_venue": "Promise Garden",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "6/27/2021",
-      "date_revision_status": "multiple_scheduled_dates_in_notifications",
-      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date"
+      "date_revision_status": "multiple_documented_contract_versions",
+      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date",
+      "contract_versions": [
+        {
+          "scheduled_date": "6/20/2020",
+          "venue": "Promise Garden",
+          "assigned_dj": "Not specified",
+          "evidence": "e-signature notification and attached contract",
+          "performance_verified": false
+        },
+        {
+          "scheduled_date": "7/31/2020",
+          "venue": "Promise Garden",
+          "assigned_dj": "AJ Hawn",
+          "evidence": "e-signature notification and attached contract",
+          "performance_verified": false
+        },
+        {
+          "scheduled_date": "6/27/2021",
+          "venue": "Promise Garden",
+          "assigned_dj": "AJ Hawn",
+          "evidence": "e-signature notification and attached contract",
+          "performance_verified": false
+        }
+      ],
+      "performance_verified_from_contracts": false
     },
     {
       "event_id": "383315",
@@ -182,8 +206,26 @@
       "contract_venue": "Gala Events and Venue at Sky Gardens",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "7/24/2021",
-      "date_revision_status": "multiple_scheduled_dates_in_notifications",
-      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date"
+      "date_revision_status": "multiple_documented_contract_versions",
+      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date",
+      "contract_versions": [
+        {
+          "scheduled_date": "8/22/2020",
+          "venue": "Tibbets Creek Manor",
+          "assigned_dj": "Brandon Andersen",
+          "evidence": "e-signature notification and attached contract",
+          "performance_verified": false
+        },
+        {
+          "scheduled_date": "7/24/2021",
+          "venue": "Gala Events and Venue at Sky Gardens",
+          "assigned_dj": "Brandon Andersen",
+          "evidence": "e-signature notification and attached contract",
+          "performance_verified": false
+        }
+      ],
+      "performance_verified_from_contracts": false,
+      "venue_revision_status": "venue_changed_between_contract_versions"
     },
     {
       "event_id": "383301",
@@ -236,8 +278,25 @@
       "attachment_reviewed": true,
       "contract_venue": "Canyon Lakes Golf Course",
       "venue_evidence": "e-signed contract attachment inspected",
-      "date_revision_status": "multiple_scheduled_dates_in_notifications",
-      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date"
+      "date_revision_status": "multiple_documented_contract_versions",
+      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date",
+      "contract_versions": [
+        {
+          "scheduled_date": "7/4/2020",
+          "venue": "Canyon Lakes Golf Course",
+          "assigned_dj": "Brandon Andersen",
+          "evidence": "e-signature notification and attached contract",
+          "performance_verified": false
+        },
+        {
+          "scheduled_date": "7/3/2021",
+          "venue": "Canyon Lakes Golf Course",
+          "assigned_dj": "Brandon Andersen",
+          "evidence": "e-signature notification and attached contract",
+          "performance_verified": false
+        }
+      ],
+      "performance_verified_from_contracts": false
     },
     {
       "event_id": "383329",
@@ -290,8 +349,25 @@
       "attachment_reviewed": true,
       "contract_venue": "Goose Ridge Winery",
       "venue_evidence": "e-signed contract attachment inspected",
-      "date_revision_status": "multiple_scheduled_dates_in_notifications",
-      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date"
+      "date_revision_status": "multiple_documented_contract_versions",
+      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date",
+      "contract_versions": [
+        {
+          "scheduled_date": "5/23/2020",
+          "venue": "Goose Ridge Winery",
+          "assigned_dj": "Brandon Andersen",
+          "evidence": "e-signature notification and attached contract",
+          "performance_verified": false
+        },
+        {
+          "scheduled_date": "5/29/2021",
+          "venue": "Goose Ridge Winery",
+          "assigned_dj": "Brandon Andersen",
+          "evidence": "e-signature notification and attached contract",
+          "performance_verified": false
+        }
+      ],
+      "performance_verified_from_contracts": false
     },
     {
       "event_id": "383328",
@@ -1114,8 +1190,25 @@
       "attachment_reviewed": true,
       "contract_venue": "Richland Community Center",
       "venue_evidence": "e-signed contract attachment inspected",
-      "date_revision_status": "multiple_scheduled_dates_in_notifications",
-      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date"
+      "date_revision_status": "multiple_documented_contract_versions",
+      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date",
+      "contract_versions": [
+        {
+          "scheduled_date": "10/13/2018",
+          "venue": "Richland Community Center",
+          "assigned_dj": "Not specified",
+          "evidence": "e-signature notification and attached contract",
+          "performance_verified": false
+        },
+        {
+          "scheduled_date": "8/10/2019",
+          "venue": "Richland Community Center",
+          "assigned_dj": "Not specified",
+          "evidence": "e-signature notification and attached contract",
+          "performance_verified": false
+        }
+      ],
+      "performance_verified_from_contracts": false
     },
     {
       "event_id": "383190",
@@ -1533,6 +1626,27 @@
       "383105"
     ],
     "performance_verified_from_contracts": 0,
-    "notes": "Signed contracts do not establish performance, payment, or Brandon Andersen as the personally assigned DJ."
+    "notes": "Signed contracts do not establish performance, payment, or Brandon Andersen as the personally assigned DJ.",
+    "version_reconciled_event_ids": [
+      "383105",
+      "383250",
+      "383276",
+      "383315",
+      "383316"
+    ],
+    "version_reconciled_count": 5,
+    "documented_versions": 11,
+    "personally_assigned_brandon_event_ids": [
+      "383315",
+      "383316",
+      "383276"
+    ],
+    "other_dj_assigned_event_ids": [
+      "383250"
+    ],
+    "assignment_unspecified_event_ids": [
+      "383105"
+    ],
+    "caution": "Assigned performer reflects the contract version; no performance completion or payment verified."
   }
 }
