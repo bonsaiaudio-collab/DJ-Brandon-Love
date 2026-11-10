@@ -1540,8 +1540,11 @@
       "contract_venue": "Winn Homestead",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "6/15/2019",
-      "public_performer_attribution": "pending_review",
-      "public_performer_attribution_basis": "Contract performer not yet reviewed."
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified.",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383185",
@@ -1560,8 +1563,11 @@
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "10/20/2018",
       "attachment_event_type": "Birthday Party",
-      "public_performer_attribution": "pending_review",
-      "public_performer_attribution_basis": "Contract performer not yet reviewed."
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified.",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383182",
@@ -1579,8 +1585,11 @@
       "contract_venue": "Airport Hangar",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "9/29/2018",
-      "public_performer_attribution": "pending_review",
-      "public_performer_attribution_basis": "Contract performer not yet reviewed."
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified.",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383173",
@@ -2012,10 +2021,10 @@
     "attribution_policy": "For reviewed DJ-service contracts with no individual performer named, presume Brandon Andersen based on his own account, explicitly labeled owner presumption rather than documentary proof. Never apply presumption to unreviewed or non-DJ records.",
     "attribution_counts_as_of_review": {
       "explicit": 22,
-      "presumed": 30,
+      "presumed": 33,
       "other": 5,
       "nonDJ": 2,
-      "unreviewed": 23
+      "unreviewed": 20
     }
   }
 }
