@@ -108,7 +108,9 @@
       "venue_evidence": "e-signed contract attachment inspected",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383339",
@@ -128,7 +130,9 @@
       "attachment_event_date": "10/16/2021",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383336",
@@ -148,7 +152,9 @@
       "attachment_event_date": "9/18/2021",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383250",
@@ -197,7 +203,9 @@
           "performer_legal_name_in_source": "AJ Hawn"
         }
       ],
-      "performance_verified_from_contracts": false
+      "performance_verified_from_contracts": false,
+      "public_performer_attribution": "other_named_performer",
+      "public_performer_attribution_basis": "Named performer in contract; does not establish completed performance."
     },
     {
       "event_id": "383315",
@@ -236,7 +244,9 @@
         }
       ],
       "performance_verified_from_contracts": false,
-      "venue_revision_status": "venue_changed_between_contract_versions"
+      "venue_revision_status": "venue_changed_between_contract_versions",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383301",
@@ -255,7 +265,9 @@
       "venue_evidence": "e-signed contract attachment inspected",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383331",
@@ -276,7 +288,9 @@
       "venue_privacy_redacted": true,
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383316",
@@ -313,7 +327,9 @@
           "performance_verified": false
         }
       ],
-      "performance_verified_from_contracts": false
+      "performance_verified_from_contracts": false,
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383329",
@@ -334,7 +350,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "DJ Hawn Solo",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_legal_name_in_source": "AJ Hawn"
+      "performer_legal_name_in_source": "AJ Hawn",
+      "public_performer_attribution": "other_named_performer",
+      "public_performer_attribution_basis": "Named performer in contract; does not establish completed performance."
     },
     {
       "event_id": "383326",
@@ -354,7 +372,9 @@
       "attachment_event_date": "6/19/2021",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383276",
@@ -391,7 +411,9 @@
           "performance_verified": false
         }
       ],
-      "performance_verified_from_contracts": false
+      "performance_verified_from_contracts": false,
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383328",
@@ -412,7 +434,9 @@
       "venue_privacy_redacted": true,
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383312",
@@ -435,7 +459,9 @@
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
       "service_classification": "Equipment rental contract",
-      "service_classification_evidence": "attached contract filename bonsai_audio_equipment_rental.html"
+      "service_classification_evidence": "attached contract filename bonsai_audio_equipment_rental.html",
+      "public_performer_attribution": "non_dj_service",
+      "public_performer_attribution_basis": "Not evidence of a personal DJ performance."
     },
     {
       "event_id": "383314",
@@ -455,7 +481,9 @@
       "attachment_event_date": "10/17/2020",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383288",
@@ -475,7 +503,9 @@
       "attachment_event_date": "8/1/2020",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383311",
@@ -495,7 +525,9 @@
       "attachment_event_date": "6/27/2020",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383284",
@@ -514,7 +546,9 @@
       "venue_evidence": "e-signed contract attachment inspected",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383310",
@@ -534,7 +568,9 @@
       "attachment_event_date": "1/31/2020",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383302",
@@ -554,7 +590,9 @@
       "attachment_event_date": "6/27/2020",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383299",
@@ -574,7 +612,9 @@
       "attachment_event_date": "1/18/2020",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383292",
@@ -594,7 +634,9 @@
       "attachment_event_date": "12/20/2019",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383282",
@@ -613,7 +655,9 @@
       "venue_evidence": "e-signed contract attachment inspected",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383277",
@@ -633,7 +677,9 @@
       "attachment_event_date": "12/14/2019",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383285",
@@ -657,7 +703,9 @@
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
       "service_classification": "Equipment rental contract",
-      "service_classification_evidence": "attached equipment rental contract"
+      "service_classification_evidence": "attached equipment rental contract",
+      "public_performer_attribution": "non_dj_service",
+      "public_performer_attribution_basis": "Not evidence of a personal DJ performance."
     },
     {
       "event_id": "383281",
@@ -679,7 +727,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "DJ Hawn Solo",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_legal_name_in_source": "AJ Hawn"
+      "performer_legal_name_in_source": "AJ Hawn",
+      "public_performer_attribution": "other_named_performer",
+      "public_performer_attribution_basis": "Named performer in contract; does not establish completed performance."
     },
     {
       "event_id": "383278",
@@ -699,7 +749,9 @@
       "attachment_event_date": "8/29/2020",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383279",
@@ -719,7 +771,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "DJ Hawn Solo",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_legal_name_in_source": "AJ Hawn"
+      "performer_legal_name_in_source": "AJ Hawn",
+      "public_performer_attribution": "other_named_performer",
+      "public_performer_attribution_basis": "Named performer in contract; does not establish completed performance."
     },
     {
       "event_id": "383273",
@@ -739,7 +793,9 @@
       "attachment_event_date": "2/14/2020",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383272",
@@ -760,7 +816,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "DJ Hawn Solo",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_legal_name_in_source": "AJ Hawn"
+      "performer_legal_name_in_source": "AJ Hawn",
+      "public_performer_attribution": "other_named_performer",
+      "public_performer_attribution_basis": "Named performer in contract; does not establish completed performance."
     },
     {
       "event_id": "383269",
@@ -781,7 +839,9 @@
       "attachment_event_type": "Other / Not Listed",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383265",
@@ -801,7 +861,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Brandon Andersen",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked.",
+      "public_performer_attribution": "explicit_brandon_assignment",
+      "public_performer_attribution_basis": "Named in contract; does not establish completed performance."
     },
     {
       "event_id": "383264",
@@ -822,7 +884,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383258",
@@ -843,7 +907,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383257",
@@ -864,7 +930,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383255",
@@ -884,7 +952,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383254",
@@ -905,7 +975,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383248",
@@ -926,7 +998,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383249",
@@ -948,7 +1022,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383239",
@@ -969,7 +1045,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383247",
@@ -989,7 +1067,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383240",
@@ -1010,7 +1090,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383238",
@@ -1031,7 +1113,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked."
+      "performer_assignment_interpretation": "No performer field in this contract version does not imply that no DJ service was booked.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383231",
@@ -1052,7 +1136,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383230",
@@ -1074,7 +1160,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383220",
@@ -1094,7 +1182,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383212",
@@ -1116,7 +1206,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383225",
@@ -1137,7 +1229,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383227",
@@ -1158,7 +1252,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383216",
@@ -1179,7 +1275,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383198",
@@ -1200,7 +1298,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383218",
@@ -1221,7 +1321,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383214",
@@ -1242,7 +1344,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383203",
@@ -1263,7 +1367,9 @@
       "attachment_event_type": "Wedding",
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "performer_assignment_evidence": "contract attachment, one version",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383193",
@@ -1283,7 +1389,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383195",
@@ -1305,7 +1413,9 @@
       "performer_assignment_reviewed": true,
       "contract_assigned_performer": "Not specified",
       "performer_assignment_evidence": "contract attachment, one version",
-      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services."
+      "performer_assignment_interpretation": "This contract version does not identify a specific DJ; does not exclude DJ services.",
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383175",
@@ -1322,7 +1432,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Red Barn",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "5/26/2019"
+      "attachment_event_date": "5/26/2019",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383192",
@@ -1340,7 +1452,9 @@
       "contract_venue": "Convention Center",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "12/1/2018",
-      "attachment_event_type": "Company Holiday Party"
+      "attachment_event_type": "Company Holiday Party",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383174",
@@ -1358,7 +1472,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Three Rivers Convention Center",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "3/23/2019"
+      "attachment_event_date": "3/23/2019",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383105",
@@ -1395,7 +1511,9 @@
           "performance_verified": false
         }
       ],
-      "performance_verified_from_contracts": false
+      "performance_verified_from_contracts": false,
+      "public_performer_attribution": "presumed_brandon_by_owner_account",
+      "public_performer_attribution_basis": "Owner recollection/default assumption; contract does not name an individual performer. Not independently verified."
     },
     {
       "event_id": "383190",
@@ -1412,7 +1530,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Winn Homestead",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "6/15/2019"
+      "attachment_event_date": "6/15/2019",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383185",
@@ -1430,7 +1550,9 @@
       "contract_venue": "Chandler Reach Winery",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "10/20/2018",
-      "attachment_event_type": "Birthday Party"
+      "attachment_event_type": "Birthday Party",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383182",
@@ -1447,7 +1569,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Airport Hangar",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "9/29/2018"
+      "attachment_event_date": "9/29/2018",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383173",
@@ -1463,7 +1587,9 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "Terra Blanca Estate Vinyard",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383180",
@@ -1480,7 +1606,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Knights of Columbus",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "10/27/2018"
+      "attachment_event_date": "10/27/2018",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383176",
@@ -1498,7 +1626,9 @@
       "contract_venue": "Red Lion in Pasco",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "9/22/2018",
-      "attachment_event_type": "Fundraiser"
+      "attachment_event_type": "Fundraiser",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383165",
@@ -1516,7 +1646,9 @@
       "contract_venue": "Blankspace",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "9/1/2018",
-      "attachment_event_type": "Birthday Party"
+      "attachment_event_type": "Birthday Party",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383169",
@@ -1534,7 +1666,9 @@
       "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "8/11/2018",
-      "attachment_event_type": "Birthday Party"
+      "attachment_event_type": "Birthday Party",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383161",
@@ -1550,7 +1684,9 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "CG Public House",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383143",
@@ -1567,7 +1703,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "9/22/2018"
+      "attachment_event_date": "9/22/2018",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383141",
@@ -1584,7 +1722,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "8/18/2018"
+      "attachment_event_date": "8/18/2018",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383142",
@@ -1601,7 +1741,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Lions Gate",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "5/4/2019"
+      "attachment_event_date": "5/4/2019",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383153",
@@ -1619,7 +1761,9 @@
       "contract_venue": "The Edge Steakhouse Restaurant",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "9/7/2018",
-      "attachment_event_type": "Fundraiser"
+      "attachment_event_type": "Fundraiser",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383140",
@@ -1635,7 +1779,9 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "Andy's North",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383134",
@@ -1652,7 +1798,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "5/12/2018"
+      "attachment_event_date": "5/12/2018",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383132",
@@ -1669,7 +1817,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "7/5/2018"
+      "attachment_event_date": "7/5/2018",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383117",
@@ -1686,7 +1836,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Airfield Winery",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "10/20/2018"
+      "attachment_event_date": "10/20/2018",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383127",
@@ -1702,7 +1854,9 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "Three Rivers Winery",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383067",
@@ -1719,7 +1873,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Terra Blanca",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "9/28/2018"
+      "attachment_event_date": "9/28/2018",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383101",
@@ -1736,7 +1892,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Rose Garden Gazebo behind library",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "6/1/2018"
+      "attachment_event_date": "6/1/2018",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383075",
@@ -1753,7 +1911,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "5/27/2018"
+      "attachment_event_date": "5/27/2018",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383074",
@@ -1770,7 +1930,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Richland Community Center",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "9/8/2018"
+      "attachment_event_date": "9/8/2018",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     },
     {
       "event_id": "383070",
@@ -1787,7 +1949,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Wine Valley Golf Course",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "6/22/2018"
+      "attachment_event_date": "6/22/2018",
+      "public_performer_attribution": "pending_review",
+      "public_performer_attribution_basis": "Contract performer not yet reviewed."
     }
   ],
   "cautions": [
@@ -1835,6 +1999,14 @@
       "383105"
     ],
     "caution": "Assigned performer reflects the contract version; no performance completion or payment verified.",
-    "performer_display_name_policy": "When contracts name AJ Hawn, publicly display DJ Hawn Solo (stage name supplied by Brandon Andersen), preserving AJ Hawn as the source name."
+    "performer_display_name_policy": "When contracts name AJ Hawn, publicly display DJ Hawn Solo (stage name supplied by Brandon Andersen), preserving AJ Hawn as the source name.",
+    "attribution_policy": "For reviewed DJ-service contracts with no individual performer named, presume Brandon Andersen based on his own account, explicitly labeled owner presumption rather than documentary proof. Never apply presumption to unreviewed or non-DJ records.",
+    "attribution_counts_as_of_review": {
+      "explicit": 22,
+      "presumed": 27,
+      "other": 5,
+      "nonDJ": 2,
+      "unreviewed": 26
+    }
   }
 }
