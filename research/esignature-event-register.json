@@ -183,16 +183,18 @@
         {
           "scheduled_date": "7/31/2020",
           "venue": "Promise Garden",
-          "assigned_dj": "AJ Hawn",
+          "assigned_dj": "DJ Hawn Solo",
           "evidence": "e-signature notification and attached contract",
-          "performance_verified": false
+          "performance_verified": false,
+          "performer_legal_name_in_source": "AJ Hawn"
         },
         {
           "scheduled_date": "6/27/2021",
           "venue": "Promise Garden",
-          "assigned_dj": "AJ Hawn",
+          "assigned_dj": "DJ Hawn Solo",
           "evidence": "e-signature notification and attached contract",
-          "performance_verified": false
+          "performance_verified": false,
+          "performer_legal_name_in_source": "AJ Hawn"
         }
       ],
       "performance_verified_from_contracts": false
@@ -330,8 +332,9 @@
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "8/29/2020",
       "performer_assignment_reviewed": true,
-      "contract_assigned_performer": "AJ Hawn",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "contract_assigned_performer": "DJ Hawn Solo",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_legal_name_in_source": "AJ Hawn"
     },
     {
       "event_id": "383326",
@@ -702,8 +705,9 @@
       "contract_venue": "Zillah Civic Center",
       "venue_evidence": "e-signed contract attachment inspected",
       "performer_assignment_reviewed": true,
-      "contract_assigned_performer": "AJ Hawn",
-      "performer_assignment_evidence": "contract attachment, one version"
+      "contract_assigned_performer": "DJ Hawn Solo",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_legal_name_in_source": "AJ Hawn"
     },
     {
       "event_id": "383273",
@@ -1712,6 +1716,7 @@
     "assignment_unspecified_event_ids": [
       "383105"
     ],
-    "caution": "Assigned performer reflects the contract version; no performance completion or payment verified."
+    "caution": "Assigned performer reflects the contract version; no performance completion or payment verified.",
+    "performer_display_name_policy": "When contracts name AJ Hawn, publicly display DJ Hawn Solo (stage name supplied by Brandon Andersen), preserving AJ Hawn as the source name."
   }
 }
