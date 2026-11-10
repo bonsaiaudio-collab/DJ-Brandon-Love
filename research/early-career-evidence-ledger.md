@@ -8,7 +8,7 @@ Updated: 2026-11-10. This is a **research working document**, not a verified bio
 |---|---|---|---|
 | Mixed Media Services | User identifies this as first business name, before Bonsai Audio | Firsthand recollection (2026-11-10) | Earliest dated business document, legal registration, invoice or email; dates unknown |
 | DJ BounceHouse | Active by June 2011; associated with Ray's Golden Lion electronic sets and Metropolis promotion | Contemporaneous email and 2011 flyer supplied by user | Independently corroborate venues, roles and performances |
-| Boogie Maximus | Replaced DJ BounceHouse; not a concurrent identity according to user | Firsthand recollection (2026-11-10) | Earliest and latest dated artifacts; transition year unknown |
+| Boogie Maximus | User recalls Boogie Maximus replacing DJ BounceHouse, but contemporary evidence places Boogie Maximus in May–Nov 2010 and DJ BounceHouse in Dec 2010; chronology unresolved | Firsthand recollection (2026-11-10) | Earliest and latest dated artifacts; transition year unknown |
 | Bonsai Audio | User corrected claimed founding year to **2014**, not 2010 | Firsthand correction (2026-11-10) | Independent founding/registration records; distinguish brand from earlier ventures |
 | Three Rivers Convention Center | Resume lists audiovisual technician employment **September 2009–September 2011** | Retrospective resume | Payroll, contract, coworker or third-party evidence |
 | Jason Carpenter | User identifies him as sound engineer at Ray's Golden Lion and AV coworker at Three Rivers; helped open early DJ opportunities | Firsthand recollection | Independent corroboration; **do not describe him as an event promoter** |
@@ -17,7 +17,7 @@ Updated: 2026-11-10. This is a **research working document**, not a verified bio
 
 - Some prior resumes claimed Bonsai Audio began in 2010. **Superseded for the working archive** by user's explicit correction to 2014. Do not silently rewrite or destroy the original resumes; retain as provenance of the discrepancy.
 - The 2011 Metropolis project must **not** be attributed to Bonsai Audio without evidence; it predates the user-recalled 2014 founding.
-- The sequence is **DJ BounceHouse → Boogie Maximus**. Dates of transition are unknown. Do not assign an invented year.
+- User recalls **DJ BounceHouse → Boogie Maximus**, but dated records show Boogie Maximus in May–Nov 2010 and DJ BounceHouse in December 2010. **This conflicts with a strictly sequential chronology**. Treat exact transition and possible reuse/overlap as unresolved; do not assign invented years.
 - DJ Brandon Love / other later names may overlap with businesses; don't force a linear brand history without records.
 
 ## Metropolis — historical event evidence
@@ -63,3 +63,17 @@ Connected mailbox verified as **anderbran@gmail.com**. These are historical priv
 - **2011-07-25–2011-08-02 — Tri-City Herald arts-desk correspondence (`1316977eb4d5470b`, `13172d170a236f94`, `1318b1c913ad7594`):** reporter **Dori O'Neal** discussed writing a brief and feature, requested photos, event description and DJ locations, and received event details. This proves active journalistic inquiry, **not that a story was ultimately published**. Search newspaper archives for independent coverage before claiming a press feature.
 
 **Corrections from this pass:** The first documentary use of DJ BounceHouse now dates to **December 2010**, and Mixed Media Services is contemporaneously documented by **May 2011**, not solely recalled. A 2010 application is stronger evidence of Three Rivers employment than a later resume, although still self-reported. The Metropolis venue varied between an early planning email and final promotional flyer.
+
+## Critical chronology conflict — Boogie Maximus evidence (2010)
+
+A focused search of **anderbran@gmail.com** on 2026-11-10 uncovered evidence **earlier** than the documented December 2010 DJ BounceHouse usage:
+
+- **2010-05-14–16:** “Boogie Maximus EP” email chain (`1289d39bd4fbfaa0`, `128a2aa3f9b7b7fe`) discusses mastering, cover art, a proposed release party and possible EP title **“Emotive.”** These emails demonstrate a production project, **not independently confirmed distribution**.
+- **2010-06-08:** An independent correspondent addresses **“Brandon Andersen (Boogie Maximus)”** in a reference request about Gener8Xion Records (`12917873177592ac`). This independently corroborates use of the stage name by June 2010.
+- **2010-09-16:** “Electronic DJ Mix” email (`12b1b598faf0e517`) signs **“Boogie Maximus / Brandon Andersen”** and links a mix titled `SEPTEMBER2010progressiveMIX.mp3` at `craveyoursavior.com`. URL's current availability is unverified.
+- **2010-11-24:** “Local Dj who plays Progressive House and Dubstep” (`12c80b52830bde97`) states the user had **two EP releases on Amazon under Boogie Maximus**, but this is a contemporaneous self-report. Verify releases using archived listings or distributor evidence before publishing as fact.
+- **2010-12-27:** The separately documented DJ BounceHouse application (`12d2b89c44ba9bdf`) demonstrates use of that name later in 2010.
+
+**Editorial decision:** Prior statement that Boogie Maximus *followed* DJ BounceHouse as a clean chronological replacement is **not established by the records**. Preserve user's recollection alongside contradictory dated records, without declaring which identity came first or whether they overlapped.
+
+**Independent press search:** Public searches for the 2011 Metropolis / Dori O'Neal / Tri-City Herald feature did not produce a matching accessible article in this pass. Newspaper correspondence establishes planned coverage, **not verified publication**.
