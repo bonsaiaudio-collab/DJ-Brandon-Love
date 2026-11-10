@@ -3,13 +3,16 @@
   "source": "Connected Gmail, subject:E-Signature:",
   "retrieved_date": "2026-11-10",
   "privacy": "No client names, email addresses, or attachment contents included",
-  "methodology": "Unique event IDs parsed from email subject lines; event dates and types are subject-line values, not verified performance",
+  "methodology": "Distinct event IDs parsed from email subject lines; different dates for the same event ID may reflect rescheduling or revisions. Do not interpret as distinct performed engagements.",
   "counts": {
     "matching_messages": 96,
     "distinct_event_ids": 82,
     "unparsed_subjects": 5,
     "forwarded_subjects": 1,
-    "duplicate_id_count": 8
+    "duplicate_id_count": 8,
+    "non_djep_signature_messages": 5,
+    "djep_style_notifications": 91,
+    "ids_with_multiple_scheduled_dates": 5
   },
   "event_types": {
     "Wedding": 62,
@@ -22,35 +25,13 @@
   },
   "records": [
     {
-      "event_id": "383299",
-      "event_type": "Birthday Party",
-      "event_date": "1/18/2020",
-      "notification_dates": [
-        "2020-01-14"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383310",
-      "event_type": "Banquet",
-      "event_date": "1/31/2020",
-      "notification_dates": [
-        "2020-01-30"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383258",
+      "event_id": "383340",
       "event_type": "Wedding",
-      "event_date": "10/12/2019",
+      "event_dates": [
+        "7/17/2021"
+      ],
       "notification_dates": [
-        "2019-08-18"
+        "2021-05-17"
       ],
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
@@ -60,7 +41,9 @@
     {
       "event_id": "383339",
       "event_type": "Wedding",
-      "event_date": "10/16/2021",
+      "event_dates": [
+        "10/16/2021"
+      ],
       "notification_dates": [
         "2021-02-16"
       ],
@@ -70,519 +53,13 @@
       "attachment_reviewed": false
     },
     {
-      "event_id": "383314",
+      "event_id": "383336",
       "event_type": "Wedding",
-      "event_date": "10/17/2020",
-      "notification_dates": [
-        "2020-02-28"
+      "event_dates": [
+        "9/18/2021"
       ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383279",
-      "event_type": "Sweet 16",
-      "event_date": "10/19/2019",
       "notification_dates": [
-        "2019-10-19"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383220",
-      "event_type": "Wedding",
-      "event_date": "10/19/2019",
-      "notification_dates": [
-        "2019-03-28"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383185",
-      "event_type": "Birthday Party",
-      "event_date": "10/20/2018",
-      "notification_dates": [
-        "2018-09-13"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383117",
-      "event_type": "Wedding",
-      "event_date": "10/20/2018",
-      "notification_dates": [
-        "2018-04-13"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383180",
-      "event_type": "Wedding",
-      "event_date": "10/27/2018",
-      "notification_dates": [
-        "2018-08-31"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383216",
-      "event_type": "Wedding",
-      "event_date": "10/31/2019",
-      "notification_dates": [
-        "2019-01-30"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383227",
-      "event_type": "Wedding",
-      "event_date": "10/4/2019",
-      "notification_dates": [
-        "2019-02-14"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383272",
-      "event_type": "Wedding",
-      "event_date": "10/5/2019",
-      "notification_dates": [
-        "2019-10-05"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383255",
-      "event_type": "Wedding",
-      "event_date": "10/5/2019",
-      "notification_dates": [
-        "2019-08-05"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383254",
-      "event_type": "Wedding",
-      "event_date": "11/16/2019",
-      "notification_dates": [
-        "2019-07-24"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383269",
-      "event_type": "Other / Not Listed",
-      "event_date": "11/23/2019",
-      "notification_dates": [
-        "2019-09-18"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383285",
-      "event_type": "Other / Not Listed",
-      "event_date": "11/9/2019",
-      "notification_dates": [
-        "2019-11-08"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383195",
-      "event_type": "Company Holiday Party",
-      "event_date": "12/1/2018",
-      "notification_dates": [
-        "2018-10-30"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383192",
-      "event_type": "Company Holiday Party",
-      "event_date": "12/1/2018",
-      "notification_dates": [
-        "2018-10-16"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383282",
-      "event_type": "Company Holiday Party",
-      "event_date": "12/13/2019",
-      "notification_dates": [
-        "2019-12-04"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383277",
-      "event_type": "Company Holiday Party",
-      "event_date": "12/14/2019",
-      "notification_dates": [
-        "2019-12-03"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383292",
-      "event_type": "Birthday Party",
-      "event_date": "12/20/2019",
-      "notification_dates": [
-        "2019-12-16"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383265",
-      "event_type": "Wedding",
-      "event_date": "12/28/2019",
-      "notification_dates": [
-        "2019-09-09"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383161",
-      "event_type": "Wedding",
-      "event_date": "12/31/2018",
-      "notification_dates": [
-        "2018-07-20"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383281",
-      "event_type": "Company Holiday Party",
-      "event_date": "12/7/2019",
-      "notification_dates": [
-        "2019-10-29"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383273",
-      "event_type": "Wedding",
-      "event_date": "2/14/2020",
-      "notification_dates": [
-        "2019-10-12"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383174",
-      "event_type": "Wedding",
-      "event_date": "3/23/2019",
-      "notification_dates": [
-        "2018-10-09",
-        "2018-09-04"
-      ],
-      "notifications": 2,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383230",
-      "event_type": "Fundraiser",
-      "event_date": "4/25/2019",
-      "notification_dates": [
-        "2019-03-29"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383134",
-      "event_type": "Banquet",
-      "event_date": "5/12/2018",
-      "notification_dates": [
-        "2018-05-07"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383257",
-      "event_type": "Wedding",
-      "event_date": "5/16/2020",
-      "notification_dates": [
-        "2019-08-13"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383198",
-      "event_type": "Wedding",
-      "event_date": "5/18/2019",
-      "notification_dates": [
-        "2019-01-29",
-        "2018-11-03"
-      ],
-      "notifications": 2,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383328",
-      "event_type": "Wedding",
-      "event_date": "5/23/2020",
-      "notification_dates": [
-        "2020-05-13"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383193",
-      "event_type": "Wedding",
-      "event_date": "5/24/2019",
-      "notification_dates": [
-        "2018-10-31"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383175",
-      "event_type": "Wedding",
-      "event_date": "5/26/2019",
-      "notification_dates": [
-        "2018-10-23"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383075",
-      "event_type": "Wedding",
-      "event_date": "5/27/2018",
-      "notification_dates": [
-        "2018-02-20"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383276",
-      "event_type": "Wedding",
-      "event_date": "5/29/2021",
-      "notification_dates": [
-        "2020-05-28",
-        "2019-10-17"
-      ],
-      "notifications": 2,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383142",
-      "event_type": "Wedding",
-      "event_date": "5/4/2019",
-      "notification_dates": [
-        "2018-07-03"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383101",
-      "event_type": "Wedding",
-      "event_date": "6/1/2018",
-      "notification_dates": [
-        "2018-02-26"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383231",
-      "event_type": "Wedding",
-      "event_date": "6/1/2019",
-      "notification_dates": [
-        "2019-04-16"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383190",
-      "event_type": "Wedding",
-      "event_date": "6/15/2019",
-      "notification_dates": [
-        "2018-10-02"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383326",
-      "event_type": "Wedding",
-      "event_date": "6/19/2021",
-      "notification_dates": [
-        "2020-06-11"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383070",
-      "event_type": "Wedding",
-      "event_date": "6/22/2018",
-      "notification_dates": [
-        "2018-02-08"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383225",
-      "event_type": "Wedding",
-      "event_date": "6/22/2019",
-      "notification_dates": [
-        "2019-02-18"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383127",
-      "event_type": "Wedding",
-      "event_date": "6/23/2018",
-      "notification_dates": [
-        "2018-04-03"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383312",
-      "event_type": "Wedding",
-      "event_date": "6/27/2020",
-      "notification_dates": [
-        "2020-03-18",
-        "2020-03-16"
-      ],
-      "notifications": 2,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383311",
-      "event_type": "Wedding",
-      "event_date": "6/27/2020",
-      "notification_dates": [
-        "2020-02-03"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383302",
-      "event_type": "Wedding",
-      "event_date": "6/27/2020",
-      "notification_dates": [
-        "2020-01-25"
+        "2020-12-04"
       ],
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
@@ -592,7 +69,11 @@
     {
       "event_id": "383250",
       "event_type": "Wedding",
-      "event_date": "6/27/2021",
+      "event_dates": [
+        "6/27/2021",
+        "7/31/2020",
+        "6/20/2020"
+      ],
       "notification_dates": [
         "2020-07-24",
         "2020-03-29",
@@ -604,57 +85,12 @@
       "attachment_reviewed": false
     },
     {
-      "event_id": "383240",
-      "event_type": "Wedding",
-      "event_date": "6/29/2019",
-      "notification_dates": [
-        "2019-05-16"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383301",
-      "event_type": "Wedding",
-      "event_date": "6/5/2021",
-      "notification_dates": [
-        "2020-07-11"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383247",
-      "event_type": "Birthday Party",
-      "event_date": "7/13/2019",
-      "notification_dates": [
-        "2019-06-14"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383340",
-      "event_type": "Wedding",
-      "event_date": "7/17/2021",
-      "notification_dates": [
-        "2021-05-17"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
       "event_id": "383315",
       "event_type": "Wedding",
-      "event_date": "7/24/2021",
+      "event_dates": [
+        "7/24/2021",
+        "8/22/2020"
+      ],
       "notification_dates": [
         "2020-07-22",
         "2020-02-25"
@@ -665,11 +101,27 @@
       "attachment_reviewed": false
     },
     {
-      "event_id": "383284",
+      "event_id": "383301",
       "event_type": "Wedding",
-      "event_date": "7/25/2020",
+      "event_dates": [
+        "6/5/2021"
+      ],
       "notification_dates": [
-        "2020-01-30"
+        "2020-07-11"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383331",
+      "event_type": "Wedding",
+      "event_dates": [
+        "9/26/2020"
+      ],
+      "notification_dates": [
+        "2020-07-05"
       ],
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
@@ -679,7 +131,10 @@
     {
       "event_id": "383316",
       "event_type": "Wedding",
-      "event_date": "7/3/2021",
+      "event_dates": [
+        "7/3/2021",
+        "7/4/2020"
+      ],
       "notification_dates": [
         "2020-06-29",
         "2020-03-05"
@@ -690,11 +145,13 @@
       "attachment_reviewed": false
     },
     {
-      "event_id": "383132",
+      "event_id": "383329",
       "event_type": "Wedding",
-      "event_date": "7/5/2018",
+      "event_dates": [
+        "8/29/2020"
+      ],
       "notification_dates": [
-        "2018-05-01"
+        "2020-06-12"
       ],
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
@@ -702,11 +159,13 @@
       "attachment_reviewed": false
     },
     {
-      "event_id": "383214",
+      "event_id": "383326",
       "event_type": "Wedding",
-      "event_date": "7/6/2019",
+      "event_dates": [
+        "6/19/2021"
+      ],
       "notification_dates": [
-        "2019-01-15"
+        "2020-06-11"
       ],
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
@@ -714,11 +173,58 @@
       "attachment_reviewed": false
     },
     {
-      "event_id": "383140",
-      "event_type": "Other / Not Listed",
-      "event_date": "7/7/2018",
+      "event_id": "383276",
+      "event_type": "Wedding",
+      "event_dates": [
+        "5/29/2021",
+        "5/23/2020"
+      ],
       "notification_dates": [
-        "2018-05-16"
+        "2020-05-28",
+        "2019-10-17"
+      ],
+      "notifications": 2,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383328",
+      "event_type": "Wedding",
+      "event_dates": [
+        "5/23/2020"
+      ],
+      "notification_dates": [
+        "2020-05-13"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383312",
+      "event_type": "Wedding",
+      "event_dates": [
+        "6/27/2020"
+      ],
+      "notification_dates": [
+        "2020-03-18",
+        "2020-03-16"
+      ],
+      "notifications": 2,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383314",
+      "event_type": "Wedding",
+      "event_dates": [
+        "10/17/2020"
+      ],
+      "notification_dates": [
+        "2020-02-28"
       ],
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
@@ -728,7 +234,9 @@
     {
       "event_id": "383288",
       "event_type": "Wedding",
-      "event_date": "8/1/2020",
+      "event_dates": [
+        "8/1/2020"
+      ],
       "notification_dates": [
         "2020-02-11"
       ],
@@ -738,9 +246,431 @@
       "attachment_reviewed": false
     },
     {
+      "event_id": "383311",
+      "event_type": "Wedding",
+      "event_dates": [
+        "6/27/2020"
+      ],
+      "notification_dates": [
+        "2020-02-03"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383284",
+      "event_type": "Wedding",
+      "event_dates": [
+        "7/25/2020"
+      ],
+      "notification_dates": [
+        "2020-01-30"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383310",
+      "event_type": "Banquet",
+      "event_dates": [
+        "1/31/2020"
+      ],
+      "notification_dates": [
+        "2020-01-30"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383302",
+      "event_type": "Wedding",
+      "event_dates": [
+        "6/27/2020"
+      ],
+      "notification_dates": [
+        "2020-01-25"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383299",
+      "event_type": "Birthday Party",
+      "event_dates": [
+        "1/18/2020"
+      ],
+      "notification_dates": [
+        "2020-01-14"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383292",
+      "event_type": "Birthday Party",
+      "event_dates": [
+        "12/20/2019"
+      ],
+      "notification_dates": [
+        "2019-12-16"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383282",
+      "event_type": "Company Holiday Party",
+      "event_dates": [
+        "12/13/2019"
+      ],
+      "notification_dates": [
+        "2019-12-04"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383277",
+      "event_type": "Company Holiday Party",
+      "event_dates": [
+        "12/14/2019"
+      ],
+      "notification_dates": [
+        "2019-12-03"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383285",
+      "event_type": "Other / Not Listed",
+      "event_dates": [
+        "11/9/2019"
+      ],
+      "notification_dates": [
+        "2019-11-08"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383281",
+      "event_type": "Company Holiday Party",
+      "event_dates": [
+        "12/7/2019"
+      ],
+      "notification_dates": [
+        "2019-10-29"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383278",
+      "event_type": "Wedding",
+      "event_dates": [
+        "8/29/2020"
+      ],
+      "notification_dates": [
+        "2019-10-20"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383279",
+      "event_type": "Sweet 16",
+      "event_dates": [
+        "10/19/2019"
+      ],
+      "notification_dates": [
+        "2019-10-19"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383273",
+      "event_type": "Wedding",
+      "event_dates": [
+        "2/14/2020"
+      ],
+      "notification_dates": [
+        "2019-10-12"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383272",
+      "event_type": "Wedding",
+      "event_dates": [
+        "10/5/2019"
+      ],
+      "notification_dates": [
+        "2019-10-05"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383269",
+      "event_type": "Other / Not Listed",
+      "event_dates": [
+        "11/23/2019"
+      ],
+      "notification_dates": [
+        "2019-09-18"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383265",
+      "event_type": "Wedding",
+      "event_dates": [
+        "12/28/2019"
+      ],
+      "notification_dates": [
+        "2019-09-09"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383264",
+      "event_type": "Wedding",
+      "event_dates": [
+        "9/21/2019"
+      ],
+      "notification_dates": [
+        "2019-08-28"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383258",
+      "event_type": "Wedding",
+      "event_dates": [
+        "10/12/2019"
+      ],
+      "notification_dates": [
+        "2019-08-18"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383257",
+      "event_type": "Wedding",
+      "event_dates": [
+        "5/16/2020"
+      ],
+      "notification_dates": [
+        "2019-08-13"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383255",
+      "event_type": "Wedding",
+      "event_dates": [
+        "10/5/2019"
+      ],
+      "notification_dates": [
+        "2019-08-05"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383254",
+      "event_type": "Wedding",
+      "event_dates": [
+        "11/16/2019"
+      ],
+      "notification_dates": [
+        "2019-07-24"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383248",
+      "event_type": "Wedding",
+      "event_dates": [
+        "9/13/2019"
+      ],
+      "notification_dates": [
+        "2019-06-26"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383249",
+      "event_type": "Wedding",
+      "event_dates": [
+        "9/21/2019"
+      ],
+      "notification_dates": [
+        "2019-06-25"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383239",
+      "event_type": "Wedding",
+      "event_dates": [
+        "8/24/2019"
+      ],
+      "notification_dates": [
+        "2019-06-17"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383247",
+      "event_type": "Birthday Party",
+      "event_dates": [
+        "7/13/2019"
+      ],
+      "notification_dates": [
+        "2019-06-14"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383240",
+      "event_type": "Wedding",
+      "event_dates": [
+        "6/29/2019"
+      ],
+      "notification_dates": [
+        "2019-05-16"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383238",
+      "event_type": "Wedding",
+      "event_dates": [
+        "9/8/2019"
+      ],
+      "notification_dates": [
+        "2019-05-06"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383231",
+      "event_type": "Wedding",
+      "event_dates": [
+        "6/1/2019"
+      ],
+      "notification_dates": [
+        "2019-04-16"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383230",
+      "event_type": "Fundraiser",
+      "event_dates": [
+        "4/25/2019"
+      ],
+      "notification_dates": [
+        "2019-03-29"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383220",
+      "event_type": "Wedding",
+      "event_dates": [
+        "10/19/2019"
+      ],
+      "notification_dates": [
+        "2019-03-28"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
       "event_id": "383212",
       "event_type": "Wedding",
-      "event_date": "8/10/2019",
+      "event_dates": [
+        "8/10/2019"
+      ],
       "notification_dates": [
         "2019-02-26"
       ],
@@ -750,9 +680,96 @@
       "attachment_reviewed": false
     },
     {
+      "event_id": "383225",
+      "event_type": "Wedding",
+      "event_dates": [
+        "6/22/2019"
+      ],
+      "notification_dates": [
+        "2019-02-18"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383227",
+      "event_type": "Wedding",
+      "event_dates": [
+        "10/4/2019"
+      ],
+      "notification_dates": [
+        "2019-02-14"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383216",
+      "event_type": "Wedding",
+      "event_dates": [
+        "10/31/2019"
+      ],
+      "notification_dates": [
+        "2019-01-30"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383198",
+      "event_type": "Wedding",
+      "event_dates": [
+        "5/18/2019"
+      ],
+      "notification_dates": [
+        "2019-01-29",
+        "2018-11-03"
+      ],
+      "notifications": 2,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383218",
+      "event_type": "Wedding",
+      "event_dates": [
+        "8/3/2019"
+      ],
+      "notification_dates": [
+        "2019-01-25"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383214",
+      "event_type": "Wedding",
+      "event_dates": [
+        "7/6/2019"
+      ],
+      "notification_dates": [
+        "2019-01-15"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
       "event_id": "383203",
       "event_type": "Wedding",
-      "event_date": "8/10/2019",
+      "event_dates": [
+        "8/10/2019"
+      ],
       "notification_dates": [
         "2018-11-06"
       ],
@@ -762,9 +779,83 @@
       "attachment_reviewed": false
     },
     {
+      "event_id": "383193",
+      "event_type": "Wedding",
+      "event_dates": [
+        "5/24/2019"
+      ],
+      "notification_dates": [
+        "2018-10-31"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383195",
+      "event_type": "Company Holiday Party",
+      "event_dates": [
+        "12/1/2018"
+      ],
+      "notification_dates": [
+        "2018-10-30"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383175",
+      "event_type": "Wedding",
+      "event_dates": [
+        "5/26/2019"
+      ],
+      "notification_dates": [
+        "2018-10-23"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383192",
+      "event_type": "Company Holiday Party",
+      "event_dates": [
+        "12/1/2018"
+      ],
+      "notification_dates": [
+        "2018-10-16"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383174",
+      "event_type": "Wedding",
+      "event_dates": [
+        "3/23/2019"
+      ],
+      "notification_dates": [
+        "2018-10-09",
+        "2018-09-04"
+      ],
+      "notifications": 2,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
       "event_id": "383105",
       "event_type": "Wedding",
-      "event_date": "8/10/2019",
+      "event_dates": [
+        "8/10/2019",
+        "10/13/2018"
+      ],
       "notification_dates": [
         "2018-10-04",
         "2018-04-06"
@@ -775,179 +866,27 @@
       "attachment_reviewed": false
     },
     {
-      "event_id": "383169",
+      "event_id": "383190",
+      "event_type": "Wedding",
+      "event_dates": [
+        "6/15/2019"
+      ],
+      "notification_dates": [
+        "2018-10-02"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383185",
       "event_type": "Birthday Party",
-      "event_date": "8/11/2018",
-      "notification_dates": [
-        "2018-07-31"
+      "event_dates": [
+        "10/20/2018"
       ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383141",
-      "event_type": "Wedding",
-      "event_date": "8/18/2018",
       "notification_dates": [
-        "2018-07-14"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383239",
-      "event_type": "Wedding",
-      "event_date": "8/24/2019",
-      "notification_dates": [
-        "2019-06-17"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383329",
-      "event_type": "Wedding",
-      "event_date": "8/29/2020",
-      "notification_dates": [
-        "2020-06-12"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383278",
-      "event_type": "Wedding",
-      "event_date": "8/29/2020",
-      "notification_dates": [
-        "2019-10-20"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383218",
-      "event_type": "Wedding",
-      "event_date": "8/3/2019",
-      "notification_dates": [
-        "2019-01-25"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383165",
-      "event_type": "Birthday Party",
-      "event_date": "9/1/2018",
-      "notification_dates": [
-        "2018-08-02"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383248",
-      "event_type": "Wedding",
-      "event_date": "9/13/2019",
-      "notification_dates": [
-        "2019-06-26"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383336",
-      "event_type": "Wedding",
-      "event_date": "9/18/2021",
-      "notification_dates": [
-        "2020-12-04"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383264",
-      "event_type": "Wedding",
-      "event_date": "9/21/2019",
-      "notification_dates": [
-        "2019-08-28"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383249",
-      "event_type": "Wedding",
-      "event_date": "9/21/2019",
-      "notification_dates": [
-        "2019-06-25"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383176",
-      "event_type": "Fundraiser",
-      "event_date": "9/22/2018",
-      "notification_dates": [
-        "2018-08-21"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383143",
-      "event_type": "Wedding",
-      "event_date": "9/22/2018",
-      "notification_dates": [
-        "2018-07-17"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383331",
-      "event_type": "Wedding",
-      "event_date": "9/26/2020",
-      "notification_dates": [
-        "2020-07-05"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
-      "event_id": "383067",
-      "event_type": "Wedding",
-      "event_date": "9/28/2018",
-      "notification_dates": [
-        "2018-03-29"
+        "2018-09-13"
       ],
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
@@ -957,7 +896,9 @@
     {
       "event_id": "383182",
       "event_type": "Wedding",
-      "event_date": "9/29/2018",
+      "event_dates": [
+        "9/29/2018"
+      ],
       "notification_dates": [
         "2018-09-05"
       ],
@@ -967,21 +908,11 @@
       "attachment_reviewed": false
     },
     {
-      "event_id": "383153",
-      "event_type": "Fundraiser",
-      "event_date": "9/7/2018",
-      "notification_dates": [
-        "2018-06-25"
-      ],
-      "notifications": 1,
-      "signature_notice_status": "email_notification_found",
-      "event_performance_verified": false,
-      "attachment_reviewed": false
-    },
-    {
       "event_id": "383173",
       "event_type": "Wedding",
-      "event_date": "9/7/2019",
+      "event_dates": [
+        "9/7/2019"
+      ],
       "notification_dates": [
         "2018-08-31"
       ],
@@ -991,9 +922,249 @@
       "attachment_reviewed": false
     },
     {
+      "event_id": "383180",
+      "event_type": "Wedding",
+      "event_dates": [
+        "10/27/2018"
+      ],
+      "notification_dates": [
+        "2018-08-31"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383176",
+      "event_type": "Fundraiser",
+      "event_dates": [
+        "9/22/2018"
+      ],
+      "notification_dates": [
+        "2018-08-21"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383165",
+      "event_type": "Birthday Party",
+      "event_dates": [
+        "9/1/2018"
+      ],
+      "notification_dates": [
+        "2018-08-02"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383169",
+      "event_type": "Birthday Party",
+      "event_dates": [
+        "8/11/2018"
+      ],
+      "notification_dates": [
+        "2018-07-31"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383161",
+      "event_type": "Wedding",
+      "event_dates": [
+        "12/31/2018"
+      ],
+      "notification_dates": [
+        "2018-07-20"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383143",
+      "event_type": "Wedding",
+      "event_dates": [
+        "9/22/2018"
+      ],
+      "notification_dates": [
+        "2018-07-17"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383141",
+      "event_type": "Wedding",
+      "event_dates": [
+        "8/18/2018"
+      ],
+      "notification_dates": [
+        "2018-07-14"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383142",
+      "event_type": "Wedding",
+      "event_dates": [
+        "5/4/2019"
+      ],
+      "notification_dates": [
+        "2018-07-03"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383153",
+      "event_type": "Fundraiser",
+      "event_dates": [
+        "9/7/2018"
+      ],
+      "notification_dates": [
+        "2018-06-25"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383140",
+      "event_type": "Other / Not Listed",
+      "event_dates": [
+        "7/7/2018"
+      ],
+      "notification_dates": [
+        "2018-05-16"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383134",
+      "event_type": "Banquet",
+      "event_dates": [
+        "5/12/2018"
+      ],
+      "notification_dates": [
+        "2018-05-07"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383132",
+      "event_type": "Wedding",
+      "event_dates": [
+        "7/5/2018"
+      ],
+      "notification_dates": [
+        "2018-05-01"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383117",
+      "event_type": "Wedding",
+      "event_dates": [
+        "10/20/2018"
+      ],
+      "notification_dates": [
+        "2018-04-13"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383127",
+      "event_type": "Wedding",
+      "event_dates": [
+        "6/23/2018"
+      ],
+      "notification_dates": [
+        "2018-04-03"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383067",
+      "event_type": "Wedding",
+      "event_dates": [
+        "9/28/2018"
+      ],
+      "notification_dates": [
+        "2018-03-29"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383101",
+      "event_type": "Wedding",
+      "event_dates": [
+        "6/1/2018"
+      ],
+      "notification_dates": [
+        "2018-02-26"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
+      "event_id": "383075",
+      "event_type": "Wedding",
+      "event_dates": [
+        "5/27/2018"
+      ],
+      "notification_dates": [
+        "2018-02-20"
+      ],
+      "notifications": 1,
+      "signature_notice_status": "email_notification_found",
+      "event_performance_verified": false,
+      "attachment_reviewed": false
+    },
+    {
       "event_id": "383074",
       "event_type": "Wedding",
-      "event_date": "9/8/2018",
+      "event_dates": [
+        "9/8/2018"
+      ],
       "notification_dates": [
         "2018-02-14"
       ],
@@ -1003,16 +1174,23 @@
       "attachment_reviewed": false
     },
     {
-      "event_id": "383238",
+      "event_id": "383070",
       "event_type": "Wedding",
-      "event_date": "9/8/2019",
+      "event_dates": [
+        "6/22/2018"
+      ],
       "notification_dates": [
-        "2019-05-06"
+        "2018-02-08"
       ],
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
       "attachment_reviewed": false
     }
+  ],
+  "cautions": [
+    "Five matching messages concern a separate insurance e-signature request, not Bonsai Audio",
+    "Some event IDs have changed scheduled dates across notifications; retain all dates and investigate rescheduling",
+    "Email notifications confirm e-signature notices, not performance or payment"
   ]
 }
