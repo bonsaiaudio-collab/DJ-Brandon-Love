@@ -247,7 +247,10 @@
       "notifications": 2,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Camp Touchet",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "6/27/2020"
     },
     {
       "event_id": "383314",
@@ -261,7 +264,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Desery Wind Winery",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "10/17/2020"
     },
     {
       "event_id": "383288",
@@ -275,7 +281,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Le Jardin",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "8/1/2020"
     },
     {
       "event_id": "383311",
@@ -289,7 +298,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "The Barn at Blue Meadows",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "6/27/2020"
     },
     {
       "event_id": "383284",
@@ -319,7 +331,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "HAPO Center",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "1/31/2020"
     },
     {
       "event_id": "383302",
@@ -333,7 +348,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Promise Garden",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "6/27/2020"
     },
     {
       "event_id": "383299",
@@ -347,7 +365,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "VIBE Music Center",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "1/18/2020"
     },
     {
       "event_id": "383292",
@@ -1254,8 +1275,8 @@
     "Email notifications confirm e-signature notices, not performance or payment"
   ],
   "venue_extraction": {
-    "attachments_inspected": 26,
-    "records_updated": 18,
+    "attachments_inspected": 33,
+    "records_updated": 33,
     "public_privacy_note": "One contract contained a street address rather than a named venue; street address withheld. No client names or contact details published.",
     "limitations": "Contract-listed location may differ from actual performed venue; 'To Be Determined' is not a verified venue."
   }
