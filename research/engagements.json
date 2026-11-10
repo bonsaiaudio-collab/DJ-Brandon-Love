@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.0",
+  "project": "Professional history evidence register",
+  "rules": {
+    "one_record_per_engagement": true,
+    "never_infer_completion_from": "quotes, invoices, unsigned worksheets or contracts",
+    "privacy": "Public records exclude private individuals, direct contacts, addresses, signatures, and prices unless separately cleared",
+    "external_verification": "independent sources linked separately; organizational identity alone is not evidence an event occurred",
+    "statuses": [
+      "lead",
+      "proposed",
+      "contracted",
+      "invoiced",
+      "reported_completed",
+      "independently_confirmed"
+    ]
+  },
+  "records": [
+    {
+      "id": "ba-2017-01-07-ctk",
+      "company": "Bonsai Audio",
+      "organization": "Christ the King School",
+      "location": "Richland, WA",
+      "event_date": null,
+      "document_date": "2017-01-07",
+      "services": [
+        "DJ services"
+      ],
+      "status": "invoiced",
+      "source_title": "invoice_000001 (1).pdf",
+      "source_type": "invoice",
+      "completion_verified": false
+    },
+    {
+      "id": "ba-2017-05-12-wordfaith",
+      "company": "Bonsai Audio",
+      "organization": "Word of Faith Center",
+      "location": "Kennewick, WA",
+      "event_date": "2017-05-12",
+      "document_date": "2017-07-10",
+      "services": [
+        "event services"
+      ],
+      "status": "invoiced",
+      "source_title": "Invoice 000005.pdf",
+      "source_type": "invoice",
+      "completion_verified": false,
+      "notes": "Invoice amount fields inconsistent; no financial inference"
+    },
+    {
+      "id": "ba-2017-08-19-mcb",
+      "company": "Bonsai Audio",
+      "organization": "Mid-Columbia Ballet",
+      "location": "Richland, WA",
+      "event_date": "2017-08-19",
+      "document_date": "2017-07-28",
+      "services": [
+        "event services"
+      ],
+      "status": "invoiced",
+      "source_title": "Bonsai Audio, LLC Invoice 000006",
+      "additional_sources": [
+        "2017.08.19 Garden Party.pdf"
+      ],
+      "source_type": "invoice and event worksheet",
+      "completion_verified": false,
+      "notes": "Garden Party and invoice matched as one engagement; attendance is projected only"
+    },
+    {
+      "id": "ba-2017-12-12-powerful",
+      "company": "Bonsai Audio",
+      "organization": "Powerful Connections",
+      "location": null,
+      "event_date": "2017-12-12",
+      "document_date": "2017-12-14",
+      "services": [
+        "DJ services"
+      ],
+      "status": "invoiced",
+      "source_title": "2017.12.12 Powerful Connections Invoice 10.pdf",
+      "source_type": "invoice",
+      "completion_verified": false
+    },
+    {
+      "id": "ba-2017-12-16-gravis",
+      "company": "Bonsai Audio",
+      "organization": "Gravis Law",
+      "location": "Richland, WA",
+      "event_date": "2017-12-16",
+      "document_date": "2017-12-18",
+      "services": [
+        "DJ services",
+        "uplighting"
+      ],
+      "status": "invoiced",
+      "source_title": "Invoice.pdf (Gravis Law)",
+      "source_type": "invoice",
+      "completion_verified": false
+    },
+    {
+      "id": "ba-2017-12-16-dental",
+      "company": "Bonsai Audio",
+      "organization": "West Richland Family Dental",
+      "location": "West Richland, WA",
+      "event_date": "2017-12-16",
+      "document_date": "2017-12-06",
+      "services": [
+        "DJ services",
+        "photo booth"
+      ],
+      "status": "invoiced",
+      "source_title": "Invoice.pdf (West Richland Family Dental)",
+      "source_type": "invoice",
+      "completion_verified": false
+    },
+    {
+      "id": "ba-2018-02-03-stjoseph",
+      "company": "Bonsai Audio",
+      "organization": "St. Joseph’s School",
+      "location": "Kennewick, WA",
+      "event_date": "2018-02-03",
+      "document_date": "2018-01-15",
+      "services": [
+        "event services"
+      ],
+      "status": "invoiced",
+      "source_title": "Invoice Saint Josephs.pdf",
+      "source_type": "invoice",
+      "completion_verified": false
+    },
+    {
+      "id": "ba-2019-09-30-washtrust",
+      "company": "Bonsai Audio",
+      "organization": "Washington Trust Bank",
+      "location": "Kennewick, WA",
+      "event_date": "2019-09-30",
+      "event_end_date": "2019-10-04",
+      "document_date": "2019-09-18",
+      "services": [
+        "AV equipment rental quote"
+      ],
+      "status": "proposed",
+      "source_title": "2019.09.30 Washington Trust, Bonsai Audio.pdf",
+      "source_type": "quote",
+      "completion_verified": false
+    }
+  ]
+}
