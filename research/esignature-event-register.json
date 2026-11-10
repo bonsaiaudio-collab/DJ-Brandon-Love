@@ -1046,7 +1046,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Winn Homestead",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "6/15/2019"
     },
     {
       "event_id": "383185",
@@ -1060,7 +1063,11 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Chandler Reach Winery",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "10/20/2018",
+      "attachment_event_type": "Birthday Party"
     },
     {
       "event_id": "383182",
@@ -1074,7 +1081,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Airport Hangar",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "9/29/2018"
     },
     {
       "event_id": "383173",
@@ -1121,7 +1131,11 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Red Lion in Pasco",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "9/22/2018",
+      "attachment_event_type": "Fundraiser"
     },
     {
       "event_id": "383165",
@@ -1135,7 +1149,11 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Blankspace",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "9/1/2018",
+      "attachment_event_type": "Birthday Party"
     },
     {
       "event_id": "383169",
@@ -1149,7 +1167,11 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Private venue (name/address withheld)",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "8/11/2018",
+      "attachment_event_type": "Birthday Party"
     },
     {
       "event_id": "383161",
@@ -1213,7 +1235,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Lions Gate",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "5/4/2019"
     },
     {
       "event_id": "383153",
@@ -1227,7 +1252,11 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "The Edge Steakhouse Restaurant",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "9/7/2018",
+      "attachment_event_type": "Fundraiser"
     },
     {
       "event_id": "383140",
@@ -1274,7 +1303,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Private venue (name/address withheld)",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "7/5/2018"
     },
     {
       "event_id": "383117",
@@ -1321,7 +1353,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Terra Blanca",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "9/28/2018"
     },
     {
       "event_id": "383101",
@@ -1335,7 +1370,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Rose Garden Gazebo behind library",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "6/1/2018"
     },
     {
       "event_id": "383075",
@@ -1349,7 +1387,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Private venue (name/address withheld)",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "5/27/2018"
     },
     {
       "event_id": "383074",
@@ -1363,7 +1404,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Richland Community Center",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "9/8/2018"
     },
     {
       "event_id": "383070",
@@ -1377,7 +1421,10 @@
       "notifications": 1,
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
-      "attachment_reviewed": false
+      "attachment_reviewed": true,
+      "contract_venue": "Wine Valley Golf Course",
+      "venue_evidence": "e-signed contract attachment inspected",
+      "attachment_event_date": "6/22/2018"
     }
   ],
   "cautions": [
@@ -1386,8 +1433,8 @@
     "Email notifications confirm e-signature notices, not performance or payment"
   ],
   "venue_extraction": {
-    "attachments_inspected": 68,
-    "records_updated": 68,
+    "attachments_inspected": 82,
+    "records_updated": 82,
     "public_privacy_note": "One contract contained a street address rather than a named venue; street address withheld. No client names or contact details published.",
     "limitations": "Contract-listed location may differ from actual performed venue; 'To Be Determined' is not a verified venue."
   }
