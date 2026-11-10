@@ -2,7 +2,74 @@
   "schema_version": "1.0",
   "source": "Connected Gmail, subject:E-Signature:",
   "retrieved_date": "2026-11-10",
-  "privacy": "No client names, email addresses, or attachment contents included",
+  "privacy": {
+    "0": "N",
+    "1": "o",
+    "2": " ",
+    "3": "c",
+    "4": "l",
+    "5": "i",
+    "6": "e",
+    "7": "n",
+    "8": "t",
+    "9": " ",
+    "10": "n",
+    "11": "a",
+    "12": "m",
+    "13": "e",
+    "14": "s",
+    "15": ",",
+    "16": " ",
+    "17": "e",
+    "18": "m",
+    "19": "a",
+    "20": "i",
+    "21": "l",
+    "22": " ",
+    "23": "a",
+    "24": "d",
+    "25": "d",
+    "26": "r",
+    "27": "e",
+    "28": "s",
+    "29": "s",
+    "30": "e",
+    "31": "s",
+    "32": ",",
+    "33": " ",
+    "34": "o",
+    "35": "r",
+    "36": " ",
+    "37": "a",
+    "38": "t",
+    "39": "t",
+    "40": "a",
+    "41": "c",
+    "42": "h",
+    "43": "m",
+    "44": "e",
+    "45": "n",
+    "46": "t",
+    "47": " ",
+    "48": "c",
+    "49": "o",
+    "50": "n",
+    "51": "t",
+    "52": "e",
+    "53": "n",
+    "54": "t",
+    "55": "s",
+    "56": " ",
+    "57": "i",
+    "58": "n",
+    "59": "c",
+    "60": "l",
+    "61": "u",
+    "62": "d",
+    "63": "e",
+    "64": "d",
+    "venue_addresses": "Private or ambiguous street-address venues are withheld from the public register; venue names may identify commercial sites only."
+  },
   "methodology": "Distinct event IDs parsed from email subject lines; different dates for the same event ID may reflect rescheduling or revisions. Do not interpret as distinct performed engagements.",
   "counts": {
     "matching_messages": 96,
@@ -93,7 +160,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Promise Garden",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "6/27/2021"
+      "attachment_event_date": "6/27/2021",
+      "date_revision_status": "multiple_scheduled_dates_in_notifications",
+      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date"
     },
     {
       "event_id": "383315",
@@ -112,7 +181,9 @@
       "attachment_reviewed": true,
       "contract_venue": "Gala Events and Venue at Sky Gardens",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "7/24/2021"
+      "attachment_event_date": "7/24/2021",
+      "date_revision_status": "multiple_scheduled_dates_in_notifications",
+      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date"
     },
     {
       "event_id": "383301",
@@ -143,9 +214,10 @@
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
       "attachment_reviewed": true,
-      "contract_venue": "private residence",
+      "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "9/26/2020"
+      "attachment_event_date": "9/26/2020",
+      "venue_privacy_redacted": true
     },
     {
       "event_id": "383316",
@@ -163,7 +235,9 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "Canyon Lakes Golf Course",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "date_revision_status": "multiple_scheduled_dates_in_notifications",
+      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date"
     },
     {
       "event_id": "383329",
@@ -215,7 +289,9 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "Goose Ridge Winery",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "date_revision_status": "multiple_scheduled_dates_in_notifications",
+      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date"
     },
     {
       "event_id": "383328",
@@ -230,9 +306,10 @@
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
       "attachment_reviewed": true,
-      "contract_venue": "Private Residence",
+      "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "5/23/2020"
+      "attachment_event_date": "5/23/2020",
+      "venue_privacy_redacted": true
     },
     {
       "event_id": "383312",
@@ -433,10 +510,11 @@
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
       "attachment_reviewed": true,
-      "contract_venue": "1515 George washington way",
+      "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "11/9/2019",
-      "attachment_event_type": "Other / Not Listed"
+      "attachment_event_type": "Other / Not Listed",
+      "venue_privacy_redacted": true
     },
     {
       "event_id": "383281",
@@ -451,9 +529,10 @@
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
       "attachment_reviewed": true,
-      "contract_venue": "7350 W Deschutes Ave",
+      "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "12/7/2019"
+      "attachment_event_date": "12/7/2019",
+      "venue_privacy_redacted": true
     },
     {
       "event_id": "383278",
@@ -670,9 +749,10 @@
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
       "attachment_reviewed": true,
-      "contract_venue": "White Family residence",
+      "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "9/21/2019"
+      "attachment_event_date": "9/21/2019",
+      "venue_privacy_redacted": true
     },
     {
       "event_id": "383239",
@@ -805,9 +885,10 @@
       "signature_notice_status": "email_notification_found",
       "event_performance_verified": false,
       "attachment_reviewed": true,
-      "contract_venue": "51810 N Sunset Rd.",
+      "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "8/10/2019"
+      "attachment_event_date": "8/10/2019",
+      "venue_privacy_redacted": true
     },
     {
       "event_id": "383225",
@@ -1032,7 +1113,9 @@
       "event_performance_verified": false,
       "attachment_reviewed": true,
       "contract_venue": "Richland Community Center",
-      "venue_evidence": "e-signed contract attachment inspected"
+      "venue_evidence": "e-signed contract attachment inspected",
+      "date_revision_status": "multiple_scheduled_dates_in_notifications",
+      "date_interpretation": "Contract attachment date is a documented version, not proof of final event date"
     },
     {
       "event_id": "383190",
@@ -1435,7 +1518,21 @@
   "venue_extraction": {
     "attachments_inspected": 82,
     "records_updated": 82,
-    "public_privacy_note": "One contract contained a street address rather than a named venue; street address withheld. No client names or contact details published.",
-    "limitations": "Contract-listed location may differ from actual performed venue; 'To Be Determined' is not a verified venue."
+    "public_privacy_note": "Private residences, family homes, and street-address-only venues withheld from public register; no client names, contact details, or contract prices published.",
+    "limitations": "82 unique event IDs reviewed; contract venue and event date are contract-listed only, not verified performed event facts. Multiple notification dates require version reconciliation."
+  },
+  "quality_control": {
+    "reviewed_distinct_event_ids": 82,
+    "venue_privacy_redactions_added": 6,
+    "ids_with_multiple_scheduled_dates": 5,
+    "revised_event_ids": [
+      "383250",
+      "383315",
+      "383316",
+      "383276",
+      "383105"
+    ],
+    "performance_verified_from_contracts": 0,
+    "notes": "Signed contracts do not establish performance, payment, or Brandon Andersen as the personally assigned DJ."
   }
 }
