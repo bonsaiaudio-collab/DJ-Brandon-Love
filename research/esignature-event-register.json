@@ -630,7 +630,10 @@
       "attachment_reviewed": true,
       "contract_venue": "Eastern Oregon Trade and Event Center (EOTEC)",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "12/14/2019"
+      "attachment_event_date": "12/14/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383285",
@@ -649,7 +652,12 @@
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "11/9/2019",
       "attachment_event_type": "Other / Not Listed",
-      "venue_privacy_redacted": true
+      "venue_privacy_redacted": true,
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "service_classification": "Equipment rental contract",
+      "service_classification_evidence": "attached equipment rental contract"
     },
     {
       "event_id": "383281",
@@ -667,7 +675,11 @@
       "contract_venue": "Private venue (name/address withheld)",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "12/7/2019",
-      "venue_privacy_redacted": true
+      "venue_privacy_redacted": true,
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "DJ Hawn Solo",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_legal_name_in_source": "AJ Hawn"
     },
     {
       "event_id": "383278",
@@ -724,7 +736,10 @@
       "attachment_reviewed": true,
       "contract_venue": "Tucannon Cellars - Sugar Pine Barn",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "2/14/2020"
+      "attachment_event_date": "2/14/2020",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Brandon Andersen",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383272",
@@ -741,7 +756,11 @@
       "attachment_reviewed": true,
       "contract_venue": "Water 2 Wine Cruise Ship",
       "venue_evidence": "e-signed contract attachment inspected",
-      "attachment_event_date": "10/5/2019"
+      "attachment_event_date": "10/5/2019",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "DJ Hawn Solo",
+      "performer_assignment_evidence": "contract attachment, one version",
+      "performer_legal_name_in_source": "AJ Hawn"
     },
     {
       "event_id": "383269",
@@ -759,7 +778,10 @@
       "contract_venue": "Chiawana High school",
       "venue_evidence": "e-signed contract attachment inspected",
       "attachment_event_date": "11/23/2019",
-      "attachment_event_type": "Other / Not Listed"
+      "attachment_event_type": "Other / Not Listed",
+      "performer_assignment_reviewed": true,
+      "contract_assigned_performer": "Not specified",
+      "performer_assignment_evidence": "contract attachment, one version"
     },
     {
       "event_id": "383265",
